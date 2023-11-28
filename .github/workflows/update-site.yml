@@ -4,17 +4,17 @@ on:
   push:
     inputs:
       notes-site:
-        description: 'ًWorkflow 2 (notes-site) which will be triggered'
+        description: 'Receiving repo workflow (notes-site) which will be triggered'
         required: true
         default: 'notes-site'
 
       receiving_github_account:
-        description: 'GitHub Account Owner'
+        description: 'GitHub account owwner'
         required: true
         default: 'regexyl'
 
       receiving_repo_github:
-        description: 'repo-name'
+        description: 'Repo name'
         required: true
         default: 'notes-site'
 
@@ -31,4 +31,3 @@ jobs:
           -u ${{ secrets.PAT }} \
           --data '{"event_type": "Trigger Workflow", "client_payload": { "repository": "'"$GITHUB_REPOSITORY"'" }}'
       - uses: actions/checkout@v3
-      - run: git submodule update --init --recursive
