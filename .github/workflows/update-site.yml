@@ -3,28 +3,20 @@ name: update-site
 on:
   push:
     inputs:
-      notes-site:
+      receiving_repo:
         description: 'Receiving repo workflow (notes-site) which will be triggered'
-        required: true
         default: 'notes-site'
 
       receiving_github_account:
         description: 'GitHub account owwner'
-        required: true
         default: 'regexyl'
-
-      receiving_repo:
-        description: 'Receiving repo name'
-        required: true
-        default: 'notes-site'
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - name: Test
+      - name: Dispatch trigger to notes-site
         run: |
           curl -X POST https://api.github.com/repos/${{ inputs.receiving_github_account }}/${{ inputs.receiving_repo }}/dispatches \
           -H 'Accept: application/vnd.github.everest-preview+json' \
