@@ -13,8 +13,8 @@ on:
         required: true
         default: 'regexyl'
 
-      receiving_repo_github:
-        description: 'Repo name'
+      receiving_repo:
+        description: 'Receiving repo name'
         required: true
         default: 'notes-site'
 
@@ -26,7 +26,7 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: Test
         run: |
-          curl -X POST https://api.github.com/repos/regexyl/notes-site/dispatches \
+          curl -X POST https://api.github.com/repos/${{ inputs.receiving_github_account }}/${{ inputs.receiving_repo }}/dispatches \
           -H 'Accept: application/vnd.github.everest-preview+json' \
           -u ${{ secrets.PAT }} \
           --data '{"event_type": "Trigger syncing of submodules on notes-site", "client_payload": { "repository": "'"$GITHUB_REPOSITORY"'" }}'
