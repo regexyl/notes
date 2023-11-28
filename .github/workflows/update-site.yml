@@ -1,15 +1,6 @@
 name: update-site
 
-on:
-  push:
-    inputs:
-      receiving_repo:
-        description: 'Receiving repo workflow (notes-site) which will be triggered'
-        default: 'notes-site'
-
-      receiving_github_account:
-        description: 'GitHub account owwner'
-        default: 'regexyl'
+on: push
 
 jobs:
   dispatch:
@@ -18,7 +9,7 @@ jobs:
     steps:
       - name: Dispatch trigger to notes-site
         run: |
-          curl -X POST https://api.github.com/repos/${{ inputs.receiving_github_account }}/${{ inputs.receiving_repo }}/dispatches \
+          curl -X POST https://api.github.com/repos/regexyl/notes-site/dispatches \
           -H 'Accept: application/vnd.github.everest-preview+json' \
           -u ${{ secrets.PAT }} \
           --data '{"event_type": "Trigger syncing of submodules on notes-site", "client_payload": { "repository": "'"$GITHUB_REPOSITORY"'" }}'
