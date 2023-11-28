@@ -12,7 +12,7 @@ on:
         default: 'regexyl'
 
 jobs:
-  build:
+  dispatch:
     runs-on: ubuntu-latest
 
     steps:
