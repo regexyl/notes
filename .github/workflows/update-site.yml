@@ -3,10 +3,10 @@ name: update-site
 on:
   push:
     inputs:
-      workflow_02:
-        description: 'ًWorkflow 2 which will be triggered'
+      notes-site:
+        description: 'ًWorkflow 2 (notes-site) which will be triggered'
         required: true
-        default: 'workflow_02'
+        default: 'notes-site'
 
       receiving_github_account:
         description: 'GitHub Account Owner'
