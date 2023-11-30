@@ -12,4 +12,4 @@ jobs:
         with:
           token: ${{ secrets.PAT }}
           repository: regexyl/notes-site
-          event-type: my-event
+          event-type: sync-submodules
