@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Another note.md",
+                "file": "Another file.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Another note.md",
+                "file": "Another file.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Another note.md",
+                "file": "Another file.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Another note.md"
+                "file": "Another file.md"
               }
             }
           }
@@ -176,6 +176,7 @@
   },
   "active": "91851c48ae5a1ba8",
   "lastOpenFiles": [
+    "Another note.md",
     "index.md",
     "quartz/public/404.html",
     "quartz/public/static/og-image.png",
@@ -221,7 +222,6 @@
     "quartz/node_modules/shiki/README.md",
     "quartz/node_modules/path-type/readme.md",
     "quartz/node_modules/reusify/README.md",
-    "quartz/node_modules/remark-breaks/readme.md",
     "Untitled.canvas"
   ]
 }
