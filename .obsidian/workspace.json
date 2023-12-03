@@ -1,64 +1,39 @@
 {
   "main": {
-    "id": "b2ac5dfdc6e42292",
+    "id": "931ef290d00f21f7",
     "type": "split",
     "children": [
       {
-        "id": "72dcdc15889c3210",
+        "id": "7d516ca871999759",
         "type": "tabs",
         "children": [
           {
-            "id": "5053744338e1dbf2",
+            "id": "5e3915f1199ae7ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hello world!.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "574d55bcbc6c8489",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hello world!.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "91851c48ae5a1ba8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Another file.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "a59ee703d6a825ff",
+    "id": "462ab17446774702",
     "type": "split",
     "children": [
       {
-        "id": "a1666a3bffbf4d01",
+        "id": "0ed1b43dd8d858c4",
         "type": "tabs",
         "children": [
           {
-            "id": "4cee6f5398a9b327",
+            "id": "259f055c7375a3b5",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -68,7 +43,7 @@
             }
           },
           {
-            "id": "ac7cef758ef6e320",
+            "id": "e1a8b90ad08fc4d9",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -83,7 +58,7 @@
             }
           },
           {
-            "id": "c081c197c8082c0a",
+            "id": "78ba7717d68b6076",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -94,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 300
   },
   "right": {
-    "id": "6a28ca90ce9b7655",
+    "id": "55f1db9486a4e6fb",
     "type": "split",
     "children": [
       {
-        "id": "f3b1ae437770d09f",
+        "id": "b95e1202b01f35fd",
         "type": "tabs",
         "children": [
           {
-            "id": "18d528699c97ed72",
+            "id": "615df9612f287318",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Another file.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,19 +97,19 @@
             }
           },
           {
-            "id": "efa837b28ec454f9",
+            "id": "9bdcaba389699193",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Another file.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "94274855b23c12a5",
+            "id": "2684e47aa9ad63c1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -145,12 +120,12 @@
             }
           },
           {
-            "id": "ea64b8aba509c8a6",
+            "id": "8ad49520276639b7",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Another file.md"
+                "file": "index.md"
               }
             }
           }
@@ -168,60 +143,17 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-livesync:Replicate": false,
-      "obsidian-livesync:Show log": false,
-      "obsidian-livesync:Show Customization sync": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "91851c48ae5a1ba8",
+  "active": "5e3915f1199ae7ba",
   "lastOpenFiles": [
-    "Another note.md",
+    "IMG_4609.jpeg",
+    "Another file.md",
+    "Hello world.md",
     "index.md",
-    "quartz/public/404.html",
-    "quartz/public/static/og-image.png",
-    "quartz/public/static/icon.png",
-    "quartz/public/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/docs/images/quartz-transform-pipeline.png",
-    "quartz/public/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/docs/images/quartz-layout.png",
-    "quartz/public/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/docs/images/dns-records.png",
-    "quartz/public/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/docs/images",
-    "quartz/public/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/quartz/plugins/transformers/toc.ts",
-    "quartz/public/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/quartz/plugins/transformers/syntax.ts",
-    "quartz/public/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/quartz/plugins/transformers/oxhugofm.ts",
-    "quartz/public/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/quartz/plugins/transformers/ofm.ts",
-    "quartz/public/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/quartz/plugins/transformers/links.ts",
-    "quartz/public/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/quartz/plugins/transformers/linebreaks.ts",
-    "quartz/public/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/quartz/plugins/transformers/latex.ts",
-    "quartz/public/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/quartz/plugins/transformers/lastmod.ts",
-    "quartz/public/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/quartz/static/og-image.png",
-    "quartz/public/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/quartz/static/icon.png",
-    "quartz/public/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/docs/images/quartz-transform-pipeline.png",
-    "quartz/public/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/docs/images/quartz-layout.png",
-    "quartz/public/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/content/quartz/docs/images/dns-records.png",
-    "quartz/node_modules/rimraf/README.md",
-    "quartz/node_modules/property-information/readme.md",
-    "quartz/node_modules/xmldom-sre/readme.md",
-    "quartz/node_modules/escalade/readme.md",
-    "quartz/node_modules/range-parser/HISTORY.md",
-    "quartz/node_modules/range-parser/README.md",
-    "quartz/node_modules/speech-rule-engine/bin/README.md",
-    "quartz/node_modules/micromark-extension-math/node_modules/@types/katex/README.md",
-    "quartz/node_modules/micromark-extension-math/readme.md",
-    "quartz/node_modules/cssstyle/README.md",
-    "quartz/node_modules/zwitch/readme.md",
-    "quartz/node_modules/workerpool/README.md",
-    "quartz/node_modules/workerpool/HISTORY.md",
-    "quartz/node_modules/unist-util-visit-parents/readme.md",
-    "quartz/node_modules/unist-util-stringify-position/readme.md",
-    "quartz/node_modules/type-fest/readme.md",
-    "quartz/node_modules/toml/README.md",
-    "quartz/node_modules/toml/CHANGELOG.md",
-    "quartz/node_modules/strip-ansi/readme.md",
-    "quartz/node_modules/shebang-regex/readme.md",
-    "quartz/node_modules/stringify-entities/readme.md",
-    "quartz/node_modules/shiki/README.md",
-    "quartz/node_modules/path-type/readme.md",
-    "quartz/node_modules/reusify/README.md",
-    "Untitled.canvas"
+    "Hello world!.md",
+    "Hello from mobile.md",
+    "Another note.md"
   ]
 }
