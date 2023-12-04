@@ -1,3 +1,1 @@
-hello world :) 
-
-This will be a link to a [[separate page]]
+Hello world! I'm Regina and I guess this is my noo.
