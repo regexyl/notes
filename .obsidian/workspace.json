@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "separate page.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "separate page.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "separate page.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "separate page.md"
+                "file": "index.md"
               }
             }
           }
@@ -164,10 +164,10 @@
   },
   "active": "763cf6a843ea99d4",
   "lastOpenFiles": [
+    "separate page.md",
     "index.md",
     "Another file.md",
     "Hello world!.md",
-    "separate page.md",
     "Hello from mobile.md",
     "Another note.md",
     "IMG_4609.jpeg",
