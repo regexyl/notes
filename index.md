@@ -1,3 +1,3 @@
-hello world :) ![[IMG_4609.jpeg]]
+hello world :) 
 
 This will be a link to a [[separate page]]
