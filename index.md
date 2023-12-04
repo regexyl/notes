@@ -1,1 +1,2 @@
-Hello world! I'm Regina and I guess this is my noo.
+Hello world! I'm Regina and this is my little nook on the internet.
+
