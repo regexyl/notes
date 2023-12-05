@@ -123,6 +123,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-livesync:Replicate": false,
+      "obsidian-livesync:Show log": false,
+      "obsidian-livesync:Show Customization sync": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -133,9 +136,9 @@
   },
   "active": "f24b94d4c9effaae",
   "lastOpenFiles": [
+    "Hello world!.md",
     "Hello from mobile.md",
     "Another note.md",
-    "Hello world!.md",
     "Another file.md",
     "IMG_4609.jpeg",
     "index.md",
