@@ -19,4 +19,4 @@ Different libraries may implement their own smart pointers. Common smart pointer
 2. `Rc<T>`: a type that allows for multiple owners by enable *reference counting* #what
 3. `RefCell<T>`, which allows access to `Ref<T>` and `RefMut<T>`: a type that enforces borrowing rules at runtime instead of compile time
 
-- `Box<T>` copies the value of the variable its initializ
+- `Box<T>` **copies** the value of the variable its initialized with, e.g. `let x = 5; let y = Box::new(x);`
