@@ -4,4 +4,8 @@ topics: tech, rust
 ---
 # Exploration
 
- Read [Learn Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/#learn-rust-with-entirely-too-many-linked-lists)
+## Reading of [Rust data structures with circular references](https://eli.thegreenplace.net/2021/rust-data-structures-with-circular-references/ "Permalink to Rust data structures with circular references")
+
+> Rust compiler should be able to calculate the size of a struct at compile-time
+
+- How is the compiler able to calculate the size of a struct at compile time? What if one of the struct's property values has `Vector`?
