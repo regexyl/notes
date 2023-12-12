@@ -15,6 +15,6 @@ topics: tech, rust
 
 Different libraries may implement their own smart pointers. Common smart pointers in the standard library include:
 
-1. `Box<T>`
-2. `Rc<T>`
-3. `RefCell<T>`, which allows access to `Ref<T>` and `RefMut<T>`: a type that enforces borrowing rules at runtime instead of 
+1. `Box<T>`: 
+2. `Rc<T>`: a type that allows for multiple owners by enable *reference counting* #what
+3. `RefCell<T>`, which allows access to `Ref<T>` and `RefMut<T>`: a type that enforces borrowing rules at runtime instead of compile time

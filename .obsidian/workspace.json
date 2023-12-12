@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "0faa6250e20b6dfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Note Syntax.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b7faa1166458d434",
             "type": "leaf",
             "state": {
@@ -40,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "b71d5859d04c8ca3",
@@ -124,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Why Rust does not play well with linked lists.md",
+                "file": "Note Syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Why Rust does not play well with linked lists.md",
+                "file": "Note Syntax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Why Rust does not play well with linked lists.md"
+                "file": "Note Syntax.md"
               }
             }
           }
@@ -188,9 +200,10 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "d063b33eff21f4bb",
+  "active": "0faa6250e20b6dfe",
   "lastOpenFiles": [
     "Things to Learn.md",
+    "Note Syntax.md",
     "Why Rust does not play well with linked lists.md",
     "Thoughts.md",
     "How React Hot Loader came to be.md",
