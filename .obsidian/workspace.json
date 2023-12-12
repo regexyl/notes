@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Note Syntax.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "0faa6250e20b6dfe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Note Syntax.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b7faa1166458d434",
             "type": "leaf",
             "state": {
@@ -51,8 +39,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "b71d5859d04c8ca3",
@@ -136,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note Syntax.md",
+                "file": "Why Rust does not play well with linked lists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note Syntax.md",
+                "file": "Why Rust does not play well with linked lists.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note Syntax.md"
+                "file": "Why Rust does not play well with linked lists.md"
               }
             }
           }
@@ -200,14 +187,14 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "0faa6250e20b6dfe",
+  "active": "d063b33eff21f4bb",
   "lastOpenFiles": [
-    "Things to Learn.md",
     "Note Syntax.md",
     "Why Rust does not play well with linked lists.md",
+    "index.md",
+    "Things to Learn.md",
     "Thoughts.md",
     "How React Hot Loader came to be.md",
-    "index.md",
     "Google Chrome Shortcuts.md",
     "separate page.md",
     "Hello world!.md",
