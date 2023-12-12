@@ -10,3 +10,11 @@ topics: tech, rust
 
 - How is the compiler able to calculate the size of a struct at compile time? What if one of the struct's property values has `Vector`?
 - Guessing from the article which says 'left and right typically use a heap-allocated `Box`', I'm guessing a `Vector` can't be used in a struct?
+
+## Reading of The Rust Book Ch. 15 - Smart Pointers
+
+Different libraries may implement their own smart pointers. Common smart pointers in the standard library include:
+
+1. `Box<T>`
+2. `Rc<T>`
+3. `RefCell<T>`, which allows access to `Ref<T>` and `RefMut<T>`: a type that enforces borrowing rules at runtime instead of 
