@@ -19,4 +19,4 @@ This video shows that it can. Drag your cursor to a point where you can see both
 
 ![[FramerMotionSlideShow.mov]]
 
-Though the video above show it's possible for a single child. Is i
+Though the video above show [it's possible for a single child](https://www.framer.com/motion/animate-presence/##exit-animations). Is it possible for multiple children?
