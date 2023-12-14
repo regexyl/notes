@@ -15,5 +15,6 @@ export const Slideshow = ({ image }) => (
 )
 ```
 
-This video shows that it can:
+This video shows that it can. Drag your cursor to a point where you can see both the '1st slide' and '2nd slide' within the container (they should have a gray gap in the middle).
+
 ![[FramerMotionSlideShow.mov]]
