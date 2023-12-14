@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note Syntax.md",
+                "file": "Things to Learn.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Why Rust does not play well with linked lists.md",
+                "file": "Things to Learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Why Rust does not play well with linked lists.md",
+                "file": "Things to Learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Why Rust does not play well with linked lists.md"
+                "file": "Things to Learn.md"
               }
             }
           }
@@ -187,7 +187,7 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "d063b33eff21f4bb",
+  "active": "5e3915f1199ae7ba",
   "lastOpenFiles": [
     "Note Syntax.md",
     "Why Rust does not play well with linked lists.md",
