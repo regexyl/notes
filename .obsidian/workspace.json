@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "504ef2793d578a35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How `AnimatePresence` in framer-motion works.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "931cf01d8acfb155",
             "type": "leaf",
             "state": {
@@ -39,7 +51,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "b71d5859d04c8ca3",
@@ -123,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Things to Learn.md",
+                "file": "How `AnimatePresence` in framer-motion works.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Things to Learn.md",
+                "file": "How `AnimatePresence` in framer-motion works.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Things to Learn.md"
+                "file": "How `AnimatePresence` in framer-motion works.md"
               }
             }
           }
@@ -187,12 +200,13 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "5e3915f1199ae7ba",
+  "active": "504ef2793d578a35",
   "lastOpenFiles": [
+    "Things to Learn.md",
+    "How `AnimatePresence` in framer-motion works.md",
     "Note Syntax.md",
     "Why Rust does not play well with linked lists.md",
     "index.md",
-    "Things to Learn.md",
     "Thoughts.md",
     "How React Hot Loader came to be.md",
     "Google Chrome Shortcuts.md",
