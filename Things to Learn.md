@@ -7,6 +7,6 @@ Things to learn about in my downtime. I'm just putting things down here for time
 	- [ ] Read [Rust data structures with circular references](https://eli.thegreenplace.net/2021/rust-data-structures-with-circular-references/ "Permalink to Rust data structures with circular references")
 - [ ] [Subresource Integrity](https://developer.mozilla.org/en-US/docs/Web/Security/Subresource_Integrity)
 	- [ ] Learn how it enhance the hot loading of this connect-kit package (see [Github comment](https://github.com/LedgerHQ/connect-kit/pull/30#issuecomment-1855952105))
-- [ ] Check out 
+- [ ] Check out [sequelize-typescript](https://github.com/sequelize/sequelize-typescript) that uses experimental decorators in JS
 
 [^r-tree-source]: I was reading up different ways to solve Advent of Code 2023 Day 3's problem when I came across [this Reddit comment](https://www.reddit.com/r/adventofcode/comments/189m3qw/comment/kc7riqn/?utm_source=share&utm_medium=web2x&context=3) that implemented an R-tree solution with C++. The question was asking for a way to count elements that were neighboring several types of prescribed punctuation values, in sort of a 2D matrix structure.
