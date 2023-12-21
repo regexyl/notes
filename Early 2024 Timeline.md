@@ -13,6 +13,9 @@ Goals for Jan - Mar 2024
 3. Apply for jobs actively (3 applications/day) - 30 minutes
 4. Practice DSA - 1.5-2 hours
 
+If I try breaking down the above into a daily routine, it might look something like this:
+* 
+
 Reaches
 1. Apply for Georgia Tech masters
 	1. Why would I want this? (1) For brand name recognition - might help with job application in the future. (2) To push me to learn more - tbh all the information that I need to learn would be online, but a structured timeline might be helpful in pushing me to do in-depth learning on a regular basis. (3) For networking.
