@@ -1,26 +1,82 @@
 {
-  "active": "5acbcc4be6a8945d",
-  "lastOpenFiles": [
-    "Things to Do.md",
-    "Things to Learn.md",
-    "Early 2024 Timeline.md",
-    "FramerMotionSlideShow.mov",
-    "Why Rust does not play well with linked lists.md",
-    "How `AnimatePresence` in framer-motion works.md",
-    "index.md",
-    "separate page.md",
-    "Thoughts.md",
-    "Note Syntax.md",
-    "How React Hot Loader came to be.md",
-    "Google Chrome Shortcuts.md",
-    "Hello world!.md",
-    "Another file.md",
-    "Hello from mobile.md",
-    "Another note.md",
-    "IMG_4609.jpeg",
-    "Hello world.md"
-  ],
+  "main": {
+    "id": "931ef290d00f21f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d516ca871999759",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e3915f1199ae7ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Things to Learn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "504ef2793d578a35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Things to Learn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "931cf01d8acfb155",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Things to Learn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b7faa1166458d434",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "b71d5859d04c8ca3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d063b33eff21f4bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Why Rust does not play well with linked lists.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
   "left": {
+    "id": "462ab17446774702",
+    "type": "split",
     "children": [
       {
         "id": "0ed1b43dd8d858c4",
@@ -102,173 +158,11 @@
       }
     ],
     "direction": "horizontal",
-    "id": "462ab17446774702",
-    "type": "split",
     "width": 212.5
   },
-  "left-ribbon": {
-    "hiddenItems": {
-      "canvas:Create new canvas": false,
-      "command-palette:Open command palette": false,
-      "daily-notes:Open today's daily note": false,
-      "graph:Open graph view": false,
-      "obsidian-livesync:Replicate": false,
-      "obsidian-livesync:Show Customization sync": false,
-      "obsidian-livesync:Show log": false,
-      "switcher:Open quick switcher": false,
-      "templates:Insert template": false
-    }
-  },
-  "main": {
-    "children": [
-      {
-        "id": "7d516ca871999759",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5e3915f1199ae7ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Things to Learn.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "504ef2793d578a35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Things to Learn.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "931cf01d8acfb155",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Things to Learn.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b7faa1166458d434",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "b71d5859d04c8ca3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d063b33eff21f4bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Why Rust does not play well with linked lists.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "7d516ca871999759",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5e3915f1199ae7ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Things to Learn.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5acbcc4be6a8945d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Early 2024 Timeline.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "504ef2793d578a35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "How `AnimatePresence` in framer-motion works.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "931cf01d8acfb155",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Things to Learn.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "b71d5859d04c8ca3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d063b33eff21f4bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Why Rust does not play well with linked lists.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      }
-    ],
-    "direction": "vertical",
-    "id": "931ef290d00f21f7",
-    "type": "split"
-  },
   "right": {
+    "id": "55f1db9486a4e6fb",
+    "type": "split",
     "children": [
       {
         "id": "b95e1202b01f35fd",
@@ -336,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Early 2024 Timeline.md",
+                "file": "Things to Learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -353,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Early 2024 Timeline.md",
+                "file": "Things to Learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -376,17 +270,49 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Early 2024 Timeline.md"
+                "file": "Things to Learn.md"
               }
             }
           }
         ]
       }
     ],
-    "collapsed": true,
     "direction": "horizontal",
-    "id": "55f1db9486a4e6fb",
-    "type": "split",
-    "width": 300
-  }
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "daily-notes:Open today's daily note": false,
+      "graph:Open graph view": false,
+      "obsidian-livesync:Replicate": false,
+      "obsidian-livesync:Show Customization sync": false,
+      "obsidian-livesync:Show log": false,
+      "switcher:Open quick switcher": false,
+      "templates:Insert template": false
+    }
+  },
+  "active": "5e3915f1199ae7ba",
+  "lastOpenFiles": [
+    "Why Rust does not play well with linked lists.md",
+    "Things to Learn.md",
+    "How `AnimatePresence` in framer-motion works.md",
+    "Early 2024 Timeline.md",
+    "Things to Do.md",
+    "FramerMotionSlideShow.mov",
+    "index.md",
+    "separate page.md",
+    "Thoughts.md",
+    "Note Syntax.md",
+    "How React Hot Loader came to be.md",
+    "Google Chrome Shortcuts.md",
+    "Hello world!.md",
+    "Another file.md",
+    "Hello from mobile.md",
+    "Another note.md",
+    "IMG_4609.jpeg",
+    "Hello world.md"
+  ]
 }
