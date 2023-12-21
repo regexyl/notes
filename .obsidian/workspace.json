@@ -1,8 +1,195 @@
 {
-  "main": {
-    "id": "931ef290d00f21f7",
-    "type": "split",
+  "active": "5acbcc4be6a8945d",
+  "lastOpenFiles": [
+    "Things to Do.md",
+    "Things to Learn.md",
+    "Early 2024 Timeline.md",
+    "FramerMotionSlideShow.mov",
+    "Why Rust does not play well with linked lists.md",
+    "How `AnimatePresence` in framer-motion works.md",
+    "index.md",
+    "separate page.md",
+    "Thoughts.md",
+    "Note Syntax.md",
+    "How React Hot Loader came to be.md",
+    "Google Chrome Shortcuts.md",
+    "Hello world!.md",
+    "Another file.md",
+    "Hello from mobile.md",
+    "Another note.md",
+    "IMG_4609.jpeg",
+    "Hello world.md"
+  ],
+  "left": {
     "children": [
+      {
+        "id": "0ed1b43dd8d858c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "259f055c7375a3b5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e1a8b90ad08fc4d9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "78ba7717d68b6076",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "0ed1b43dd8d858c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "259f055c7375a3b5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e1a8b90ad08fc4d9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "78ba7717d68b6076",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "id": "462ab17446774702",
+    "type": "split",
+    "width": 212.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "daily-notes:Open today's daily note": false,
+      "graph:Open graph view": false,
+      "obsidian-livesync:Replicate": false,
+      "obsidian-livesync:Show Customization sync": false,
+      "obsidian-livesync:Show log": false,
+      "switcher:Open quick switcher": false,
+      "templates:Insert template": false
+    }
+  },
+  "main": {
+    "children": [
+      {
+        "id": "7d516ca871999759",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e3915f1199ae7ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Things to Learn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "504ef2793d578a35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Things to Learn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "931cf01d8acfb155",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Things to Learn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b7faa1166458d434",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "b71d5859d04c8ca3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d063b33eff21f4bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Why Rust does not play well with linked lists.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
       {
         "id": "7d516ca871999759",
         "type": "tabs",
@@ -77,59 +264,68 @@
         ]
       }
     ],
-    "direction": "vertical"
+    "direction": "vertical",
+    "id": "931ef290d00f21f7",
+    "type": "split"
   },
-  "left": {
-    "id": "462ab17446774702",
-    "type": "split",
+  "right": {
     "children": [
       {
-        "id": "0ed1b43dd8d858c4",
+        "id": "b95e1202b01f35fd",
         "type": "tabs",
         "children": [
           {
-            "id": "259f055c7375a3b5",
+            "id": "615df9612f287318",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
+              "type": "backlink",
               "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "e1a8b90ad08fc4d9",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
+                "file": "Things to Learn.md",
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "78ba7717d68b6076",
+            "id": "9bdcaba389699193",
             "type": "leaf",
             "state": {
-              "type": "bookmarks",
-              "state": {}
+              "type": "outgoing-link",
+              "state": {
+                "file": "Things to Learn.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2684e47aa9ad63c1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8ad49520276639b7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Things to Learn.md"
+              }
             }
           }
         ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 212.5
-  },
-  "right": {
-    "id": "55f1db9486a4e6fb",
-    "type": "split",
-    "children": [
+      },
       {
         "id": "b95e1202b01f35fd",
         "type": "tabs",
@@ -187,42 +383,10 @@
         ]
       }
     ],
+    "collapsed": true,
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
-  },
-  "left-ribbon": {
-    "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-livesync:Replicate": false,
-      "obsidian-livesync:Show log": false,
-      "obsidian-livesync:Show Customization sync": false
-    }
-  },
-  "active": "5acbcc4be6a8945d",
-  "lastOpenFiles": [
-    "Things to Do.md",
-    "Things to Learn.md",
-    "Early 2024 Timeline.md",
-    "FramerMotionSlideShow.mov",
-    "Why Rust does not play well with linked lists.md",
-    "How `AnimatePresence` in framer-motion works.md",
-    "index.md",
-    "separate page.md",
-    "Thoughts.md",
-    "Note Syntax.md",
-    "How React Hot Loader came to be.md",
-    "Google Chrome Shortcuts.md",
-    "Hello world!.md",
-    "Another file.md",
-    "Hello from mobile.md",
-    "Another note.md",
-    "IMG_4609.jpeg",
-    "Hello world.md"
-  ]
+    "id": "55f1db9486a4e6fb",
+    "type": "split",
+    "width": 300
+  }
 }
