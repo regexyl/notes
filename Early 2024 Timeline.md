@@ -11,6 +11,7 @@ Goals for Jan - Mar 2024
 	2. Read rolldown codebase - 2 weeks
 2. Start on the redesign of Chain Reaction + complete the multiplayer game - 1 month
 3. Apply for jobs actively (3 applications/day) - 30 minutes
+4. Practice DSA - 1.5-2 hours
 
 Reaches
 1. Apply for Georgia Tech masters

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Things to Learn.md",
+                "file": "Early 2024 Timeline.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Things to Learn.md",
+                "file": "Early 2024 Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Things to Learn.md",
+                "file": "Early 2024 Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Things to Learn.md"
+                "file": "Early 2024 Timeline.md"
               }
             }
           }
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Things to Learn.md",
+                "file": "Early 2024 Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Things to Learn.md",
+                "file": "Early 2024 Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Things to Learn.md"
+                "file": "Early 2024 Timeline.md"
               }
             }
           }
@@ -255,11 +255,11 @@
   },
   "active": "504ef2793d578a35",
   "lastOpenFiles": [
-    "Why Rust does not play well with linked lists.md",
+    "Things to Do.md",
     "Things to Learn.md",
+    "Why Rust does not play well with linked lists.md",
     "How `AnimatePresence` in framer-motion works.md",
     "Early 2024 Timeline.md",
-    "Things to Do.md",
     "FramerMotionSlideShow.mov",
     "index.md",
     "separate page.md",
