@@ -26,19 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Things to Do.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "163c4f377f11c0aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Early 2024 Timeline.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -68,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "b71d5859d04c8ca3",
@@ -152,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Early 2024 Timeline.md",
+                "file": "Things to Do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Early 2024 Timeline.md",
+                "file": "Things to Do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Early 2024 Timeline.md"
+                "file": "Things to Do.md"
               }
             }
           }
@@ -216,17 +204,17 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "163c4f377f11c0aa",
+  "active": "5acbcc4be6a8945d",
   "lastOpenFiles": [
+    "Things to Learn.md",
     "Things to Do.md",
     "Early 2024 Timeline.md",
+    "FramerMotionSlideShow.mov",
     "Why Rust does not play well with linked lists.md",
     "How `AnimatePresence` in framer-motion works.md",
-    "Things to Learn.md",
     "index.md",
     "separate page.md",
     "Thoughts.md",
-    "FramerMotionSlideShow.mov",
     "Note Syntax.md",
     "How React Hot Loader came to be.md",
     "Google Chrome Shortcuts.md",
