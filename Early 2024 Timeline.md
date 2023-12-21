@@ -4,6 +4,7 @@ publish: "false"
 Goals for rest of December
 1. Finish AoC and AoT
 2. Read Rust docs
+3. Start 
 
 Goals for Jan - Mar 2024
 1. Contribute to rolldown
