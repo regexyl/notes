@@ -10,5 +10,6 @@ Things to learn about in my downtime. I'm just putting things down here for time
 - [ ] Check out [sequelize-typescript](https://github.com/sequelize/sequelize-typescript) that uses experimental decorators in JS
 - [ ] Check out [Replicache](https://x.com/replicache?s=21&t=9oiL4wNTHBFy07_UT7HNIA)
 - [ ] Read up on WebRTC
+- [ ] Check out Mateusz comment on TS 
 
 [^r-tree-source]: I was reading up different ways to solve Advent of Code 2023 Day 3's problem when I came across [this Reddit comment](https://www.reddit.com/r/adventofcode/comments/189m3qw/comment/kc7riqn/?utm_source=share&utm_medium=web2x&context=3) that implemented an R-tree solution with C++. The question was asking for a way to count elements that were neighboring several types of prescribed punctuation values, in sort of a 2D matrix structure.

@@ -8,31 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5e3915f1199ae7ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Things to Learn.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "504ef2793d578a35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Things to Learn.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "931cf01d8acfb155",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -49,24 +25,6 @@
             "state": {
               "type": "empty",
               "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "b71d5859d04c8ca3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d063b33eff21f4bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Why Rust does not play well with linked lists.md",
-                "mode": "source",
-                "source": false
-              }
             }
           }
         ]
@@ -115,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "0ed1b43dd8d858c4",
@@ -294,7 +253,7 @@
       "templates:Insert template": false
     }
   },
-  "active": "5e3915f1199ae7ba",
+  "active": "504ef2793d578a35",
   "lastOpenFiles": [
     "Why Rust does not play well with linked lists.md",
     "Things to Learn.md",
