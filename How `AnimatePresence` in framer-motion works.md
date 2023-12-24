@@ -43,4 +43,4 @@ What's frameloop?
 - `createRenderBatcher` - Takes in a callback (which in turn takes in a callback that's defined within this util function)
 
 Parked questions:
-- Where is `.process`
+- Where is `Step`'s `.process` util defined? (as seen in batcher.ts L. 33?)
