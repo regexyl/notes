@@ -36,6 +36,8 @@ export const Component = () => {
 }
 ```
 3. What is the `mode` prop?
+4. `allChildren` vs `existingChildren` vs `presentChildren`:
+	1. `allChildren`: 
 
 ### Framer motion internals
 
