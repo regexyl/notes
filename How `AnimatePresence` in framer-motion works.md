@@ -1,3 +1,8 @@
+# Potential outline
+
+
+# Scratchpad
+
 What I want to find out:
 
 Can two components exist at the same time - one exiting and one entering, even if the JSX shows only one component existing at any single time?:
@@ -41,6 +46,8 @@ export const Component = () => {
 	2. `presentChildren`: basically either (1) `childrenToRender`, which is also `filteredChildren`, or (2) a *filtered* `filteredChildren` (i.e. a filter layer on top of `filteredChildren`) that only includes *visible* children
 5. `exitingChildren`
 6. What is `PresenceChild`?
+	1. Wraps each child in its own 
+7. 
 
 ### Framer motion internals
 
