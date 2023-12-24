@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "how `animate",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -256,11 +256,11 @@
   },
   "active": "504ef2793d578a35",
   "lastOpenFiles": [
-    "Things to Learn.md",
     "Things to Do.md",
+    "How `AnimatePresence` in framer-motion works.md",
+    "Things to Learn.md",
     "Early 2024 Timeline.md",
     "Why Rust does not play well with linked lists.md",
-    "How `AnimatePresence` in framer-motion works.md",
     "FramerMotionSlideShow.mov",
     "index.md",
     "separate page.md",
