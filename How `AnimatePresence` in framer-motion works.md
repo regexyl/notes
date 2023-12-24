@@ -39,5 +39,8 @@ export const Component = () => {
 
 ### Framer motion internals
 
-What's frameloop
-- `createRenderBatcher` - Takes in a callback (which in tern takes in a callback)
+What's frameloop?
+- `createRenderBatcher` - Takes in a callback (which in turn takes in a callback that's defined within this util function)
+
+Parked questions:
+- Where is `.process`
