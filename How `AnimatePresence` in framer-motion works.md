@@ -36,3 +36,8 @@ export const Component = () => {
 }
 ```
 3. What is the `mode` prop?
+
+### Framer motion internals
+
+What's frameloop
+- `createRenderBatcher` - Takes in a callback (which in tern takes in a callback)
