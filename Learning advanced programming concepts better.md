@@ -1,6 +1,6 @@
 # Scratchpad
 
-- This article is targeted towards the learning of programming concepts which analyzes existing code
+- This article is targeted towards the learning of programming concepts which analyzes existing code and attempts to understand why they're implemented the way they are.
 - There are different mediums to learn programming concepts:
 	- video 
 		- Pros:
