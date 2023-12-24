@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Understanding library codebases in a better way.md",
+                "file": "How `AnimatePresence` in framer-motion works.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Understanding library codebases in a better way.md",
+                "file": "How `AnimatePresence` in framer-motion works.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Understanding library codebases in a better way.md",
+                "file": "How `AnimatePresence` in framer-motion works.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Understanding library codebases in a better way.md"
+                "file": "How `AnimatePresence` in framer-motion works.md"
               }
             }
           }
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Understanding library codebases in a better way.md",
+                "file": "How `AnimatePresence` in framer-motion works.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Understanding library codebases in a better way.md",
+                "file": "How `AnimatePresence` in framer-motion works.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Understanding library codebases in a better way.md"
+                "file": "How `AnimatePresence` in framer-motion works.md"
               }
             }
           }
@@ -269,8 +269,8 @@
   },
   "active": "6bfcaa51b11d725d",
   "lastOpenFiles": [
-    "Things to Do.md",
     "Understanding library codebases in a better way.md",
+    "Things to Do.md",
     "Gaming React with `postMessage` - and why it's a bad idea.md",
     "How `AnimatePresence` in framer-motion works.md",
     "Things to Learn.md",
