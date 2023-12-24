@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Things to Learn.md",
+                "file": "How `AnimatePresence` in framer-motion works.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211.5
+    "width": 211.5,
+    "collapsed": true
   },
   "right": {
     "id": "55f1db9486a4e6fb",
@@ -133,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Things to Learn.md",
+                "file": "How `AnimatePresence` in framer-motion works.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Things to Learn.md",
+                "file": "How `AnimatePresence` in framer-motion works.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Things to Learn.md"
+                "file": "How `AnimatePresence` in framer-motion works.md"
               }
             }
           }
@@ -189,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Things to Learn.md",
+                "file": "How `AnimatePresence` in framer-motion works.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Things to Learn.md",
+                "file": "How `AnimatePresence` in framer-motion works.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Things to Learn.md"
+                "file": "How `AnimatePresence` in framer-motion works.md"
               }
             }
           }
@@ -255,9 +256,9 @@
   },
   "active": "504ef2793d578a35",
   "lastOpenFiles": [
+    "Things to Learn.md",
     "Things to Do.md",
     "Early 2024 Timeline.md",
-    "Things to Learn.md",
     "Why Rust does not play well with linked lists.md",
     "How `AnimatePresence` in framer-motion works.md",
     "FramerMotionSlideShow.mov",
