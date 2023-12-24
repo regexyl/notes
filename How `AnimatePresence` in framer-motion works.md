@@ -23,3 +23,4 @@ Though the video above show [it's possible for a single child](https://www.frame
 
 1. How does framer-motion know when a child component is unmounted?
 	1. My guess: It mutates the child component by injecting a return function in a `useEffect` - but this is not possible? Or is it?
+2. How does `usePresence` come into play here? Is there a way to structure `usePresence` so that the user does not have to insert this block of code in the compon
