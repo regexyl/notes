@@ -35,4 +35,4 @@ export const Component = () => {
   return <div />
 }
 ```
-3. What is the `mode` prop?
+3. What is the `mode` prop?****
