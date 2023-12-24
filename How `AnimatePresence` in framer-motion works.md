@@ -37,8 +37,8 @@ export const Component = () => {
 ```
 3. What is the `mode` prop?
 4. `allChildren` vs `existingChildren` vs `presentChildren`:
-	1. `allChildren`: bascially a map of a key to each individual `filteredChildren`
-	2. `presentChildren`: basically
+	1. `allChildren`: basically a map of a key to each individual `filteredChildren`
+	2. `presentChildren`: basically `childrenToRender`, which is also `filteredChildren`
 
 ### Framer motion internals
 
