@@ -1,5 +1,5 @@
 # Scratchpad
 
 - There are different mediums to learn programming concepts:
-	- video - suitable for pure novices up to highly advanced engineers, with a drawback of not being able to control your learning speed or easily skipping topics you don't necessarily need. Though it's improving with the ubiquity of audio-to-text tools coupled with AI - you could technically split videos into sections and read their summaries, or 'synopsis' if you will, and choose to skip ahead to certain section whenever you please. High quality audio-to-text transcriptions also lets you ctrl + f your way through the content, that's also timestamped along with the video, so you don't get lost as easily as before.
-	- article - 
+	- video - with a drawback of not being able to control your learning speed or easily skipping topics you don't necessarily need. Though it's improving with the ubiquity of audio-to-text tools coupled with AI - you could technically split videos into sections and read their summaries, or 'synopsis' if you will, and choose to skip ahead to certain section whenever you please. High quality audio-to-text transcriptions also lets you ctrl + f your way through the content, that's also timestamped along with the video, so you don't get lost as easily as before.
+	- article - allows you to control your learning speed (which partially depends on your reading speed)
