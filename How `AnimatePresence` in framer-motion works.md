@@ -1,5 +1,6 @@
 # Potential outline
-
+1. Performance implications of `<AnimatePresence>`
+	1. Does wrapping each child in a Provider make things slower? (Will need to look into the implementation of `Provider` in the React codebase)
 
 # Scratchpad
 
@@ -46,7 +47,7 @@ export const Component = () => {
 	2. `presentChildren`: basically either (1) `childrenToRender`, which is also `filteredChildren`, or (2) a *filtered* `filteredChildren` (i.e. a filter layer on top of `filteredChildren`) that only includes *visible* children
 5. `exitingChildren`
 6. What is `PresenceChild`?
-	1. Wraps each child in its own 
+	1. Wraps each child in its own `Provider`, taken from the `PresenceContext`
 7. 
 
 ### Framer motion internals
