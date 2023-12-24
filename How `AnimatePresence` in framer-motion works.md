@@ -22,4 +22,4 @@ This video shows that it can. Drag your cursor to a point where you can see both
 Though the video above show [it's possible for a single child](https://www.framer.com/motion/animate-presence/##exit-animations). Is it possible for multiple children?
 
 1. How does framer-motion know when a child component is unmounted?
-	1. My guess: It mutates the child component
+	1. My guess: It mutates the child component by injecting a return function in a `useEffect` - but this is not possible? Or is it?
