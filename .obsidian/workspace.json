@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How `AnimatePresence` in framer-motion works.md",
+                "file": "Some undersold tools for learning OSS.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How `AnimatePresence` in framer-motion works.md",
+                "file": "Some undersold tools for learning OSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How `AnimatePresence` in framer-motion works.md",
+                "file": "Some undersold tools for learning OSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How `AnimatePresence` in framer-motion works.md"
+                "file": "Some undersold tools for learning OSS.md"
               }
             }
           }
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How `AnimatePresence` in framer-motion works.md",
+                "file": "Some undersold tools for learning OSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How `AnimatePresence` in framer-motion works.md",
+                "file": "Some undersold tools for learning OSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How `AnimatePresence` in framer-motion works.md"
+                "file": "Some undersold tools for learning OSS.md"
               }
             }
           }
@@ -269,10 +269,11 @@
   },
   "active": "6bfcaa51b11d725d",
   "lastOpenFiles": [
-    "Understanding library codebases in a better way.md",
     "Things to Do.md",
-    "Gaming React with `postMessage` - and why it's a bad idea.md",
+    "Some undersold tools for learning OSS.md",
     "How `AnimatePresence` in framer-motion works.md",
+    "Understanding library codebases in a better way.md",
+    "Gaming React with `postMessage` - and why it's a bad idea.md",
     "Things to Learn.md",
     "Early 2024 Timeline.md",
     "Why Rust does not play well with linked lists.md",

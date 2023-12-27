@@ -1,0 +1,1 @@
+GitLens - knowing how to navigate an OSS project's history is valuable. It shows you why some code arhict
