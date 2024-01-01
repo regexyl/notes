@@ -9,7 +9,7 @@ Goal format:
 # Non-concrete goals
 
 1. Have a well-defined productivity system (information aggregation -> publication).
-2. Have a habit tracker + Update it on a daily basis.
+2. Update my habit tracker (Patterns) on a daily basis.
 
 # Concrete goals
 
@@ -21,6 +21,7 @@ Goal format:
 	- Total: Takes up to 4 months
 3. Move to London by 30 September 2024.
 4. Get an Amex credit card by 31 December 2024.
+5. Something about Rust
 
 ## Habitual
 
