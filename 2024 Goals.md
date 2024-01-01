@@ -4,7 +4,7 @@ Goal format:
 # Todo
 
 - [ ] Evaluate my progress for my goals on a bi-weekly basis.
-- [ ] Aggregate case studies
+- [ ] Aggregate case studies for Global Talent and modify my list here accordingly to be able to hit similar goals.
 
 # Non-concrete goals
 
@@ -12,9 +12,14 @@ Goal format:
 
 # Concrete goals
 
+## Non-habitual
 1. Contribute to OSS with 10 PRs by 31 August 2024.
 2. Get the Global Talent Visa (Exceptional Promise).
 	- Endorsement application: Takes 8 weeks (~2 months)
 	- Visa application: up to 3 weeks
 	- Total: Takes up to 4 months
-3. Get an Amex credit card
+3. Get an Amex credit card.
+
+## Habitual
+
+1. Exercise 6 times a week for a minimum of 25 minutes each time.
