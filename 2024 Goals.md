@@ -6,4 +6,6 @@ Goal format:
 
 # Concrete goals
 
-1. Achieve the Global Talent Visa
+1. Get the Global Talent Visa (Exceptional Promise)
+	2. Takes 8 weeks for applications outside of the UK - so roughly 2 months from when I 
+2. Get an Amex credit card
