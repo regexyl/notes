@@ -8,7 +8,7 @@ Goal format:
 
 # Non-concrete goals
 
-1. 
+1. Have a well-defined productivity system
 
 # Concrete goals
 
@@ -18,10 +18,11 @@ Goal format:
 	- Endorsement application: Takes 8 weeks (~2 months)
 	- Visa application: up to 3 weeks
 	- Total: Takes up to 4 months
-3. Get an Amex credit card by 31 December 2024.
-4. Move to London by 30 September 2024.
+3. Move to London by 30 September 2024.
+4. Get an Amex credit card by 31 December 2024.
 
 ## Habitual
 
 1. Exercise 6 times a week for a minimum of 25 minutes each time.
-2. Do 1 Leetcode question a day
+2. Do 1 Leetcode question a day.
+3. Write a blog article at least once a month - there should always be at least one blog article in the .
