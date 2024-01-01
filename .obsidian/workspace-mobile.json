@@ -123,6 +123,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-livesync:Replicate": false,
+      "obsidian-livesync:Show log": false,
+      "obsidian-livesync:Show Customization sync": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -133,6 +136,8 @@
   },
   "active": "f24b94d4c9effaae",
   "lastOpenFiles": [
+    "separate page.md",
+    "Note Syntax.md",
     "index.md",
     "Hello world!.md",
     "Hello from mobile.md",
