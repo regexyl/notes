@@ -15,9 +15,9 @@ Goal format:
 # Concrete goals
 
 ## Non-habitual
-1. Contribute to OSS with 10 PRs by 30 April 2024.
+1. Publish Chain Reaction game by 31 March 2024.
+2. Contribute to OSS with 10 PRs by 30 April 2024.
 	1. 3 out of the above 10 PRs have to be done in Rust 🦀
-2. Publish Chain Reaction game by
 3. Get the Global Talent Visa (Exceptional Promise) by 31 August 2024.
 	- Endorsement application: Takes 8 weeks (~2 months)
 	- Visa application: up to 3 weeks
