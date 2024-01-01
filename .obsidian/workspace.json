@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Goals.md",
+                "file": "Global Talent Visa Preparation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Goals.md",
+                "file": "Global Talent Visa Preparation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Goals.md"
+                "file": "Global Talent Visa Preparation.md"
               }
             }
           }
@@ -233,7 +233,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Goals.md",
+                "file": "Global Talent Visa Preparation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +250,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Goals.md",
+                "file": "Global Talent Visa Preparation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -273,7 +273,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Goals.md"
+                "file": "Global Talent Visa Preparation.md"
               }
             }
           }
@@ -297,10 +297,10 @@
       "templates:Insert template": false
     }
   },
-  "active": "4cd473844370b9f0",
+  "active": "0b55b7ea4a341674",
   "lastOpenFiles": [
-    "Global Talent Visa Preparation.md",
     "2024 Goals.md",
+    "Global Talent Visa Preparation.md",
     "Some undersold tools for learning OSS.md",
     "Google Chrome Shortcuts.md",
     "Google Chrome Shortcuts 2.md",

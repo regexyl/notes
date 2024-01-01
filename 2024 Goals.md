@@ -10,6 +10,7 @@ Goal format:
 
 1. Have a well-defined productivity system (information aggregation -> publication).
 2. Update my habit tracker (Patterns) on a daily basis.
+3. Try out different fashion styles, try going contactless (by which I've to find a good contact lens dispenser).
 
 # Concrete goals
 
