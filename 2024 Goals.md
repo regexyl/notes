@@ -8,7 +8,8 @@ Goal format:
 
 # Non-concrete goals
 
-1. Have a well-defined productivity system
+1. Have a well-defined productivity system (information aggregation -> publication).
+2. Have a habit tracker + Update it on a daily basis.
 
 # Concrete goals
 
@@ -25,4 +26,4 @@ Goal format:
 
 1. Exercise 6 times a week for a minimum of 25 minutes each time.
 2. Do 1 Leetcode question a day.
-3. Write a blog article at least once a month - there should always be at least one blog article in the .
+3. Write a blog article at least once a month - I should always be in the midst of writing one blog article.
