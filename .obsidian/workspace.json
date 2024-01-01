@@ -44,6 +44,21 @@
             }
           },
           {
+            "id": "b7faa1166458d434",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "dd415ef52eb04e5e",
+        "type": "tabs",
+        "children": [
+          {
             "id": "0b55b7ea4a341674",
             "type": "leaf",
             "state": {
@@ -54,17 +69,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b7faa1166458d434",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Global Talent Visa Preparation.md",
+                "file": "2024 Goals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Global Talent Visa Preparation.md",
+                "file": "2024 Goals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Global Talent Visa Preparation.md"
+                "file": "2024 Goals.md"
               }
             }
           }
@@ -227,7 +233,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Global Talent Visa Preparation.md",
+                "file": "2024 Goals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +250,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Global Talent Visa Preparation.md",
+                "file": "2024 Goals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -267,7 +273,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Global Talent Visa Preparation.md"
+                "file": "2024 Goals.md"
               }
             }
           }
@@ -291,10 +297,10 @@
       "templates:Insert template": false
     }
   },
-  "active": "0b55b7ea4a341674",
+  "active": "4cd473844370b9f0",
   "lastOpenFiles": [
-    "2024 Goals.md",
     "Global Talent Visa Preparation.md",
+    "2024 Goals.md",
     "Some undersold tools for learning OSS.md",
     "Google Chrome Shortcuts.md",
     "Google Chrome Shortcuts 2.md",
