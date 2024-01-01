@@ -28,3 +28,4 @@ Goal format:
 1. Exercise 6 times a week for a minimum of 25 minutes each time.
 2. Do 1 Leetcode question a day.
 3. Write a blog article at least once a month - I should always be in the midst of writing one blog article.
+	1. At least 12 articles by end-2024, but I'll try for 20 articles as a target.
