@@ -7,5 +7,6 @@ Goal format:
 # Concrete goals
 
 1. Get the Global Talent Visa (Exceptional Promise)
-	2. Takes 8 weeks for applications outside of the UK - so roughly 2 months from when I 
+	- Takes 8 weeks for endorsement applications outside of the UK - so roughly 2 months from when I first submit my documents.
+	- Visa application: up to 3 weeks
 2. Get an Amex credit card
