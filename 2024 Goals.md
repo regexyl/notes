@@ -6,4 +6,4 @@ Goal format:
 
 # Concrete goals
 
-1. 
+1. Achieve the Global Talent Visa
