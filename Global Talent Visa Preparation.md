@@ -9,6 +9,7 @@
 ### Mandatory
 
 - Show they have been recognized as having potential to be a leading talent in the digital technology field in the last 5 years.
+	- 📋 At least t
 
 ### Non-mandatory
 
@@ -38,3 +39,4 @@ Note
 	2. Added an app plugin to the open source calendar platform for users to register one's Meta Pixel ID to measure, optimize and build audiences for ad campaigns.
 	3. Part of a building a wide ecosystem of plugins to enhance user functionality on Calcom.
 	4. Awarded bounty of USD 100 ([source](https://github.com/calcom/cal.com/issues/3563)).
+2. 🟠 Need more contributions
