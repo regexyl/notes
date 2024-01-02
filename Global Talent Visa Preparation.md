@@ -12,9 +12,10 @@
 
 ### Non-mandatory
 
-1. Number 2 Recognized for my work outside of my immediate occupation that contributed to the advancement of the sector)
-2. Number 3: Made a significant technical, commercial or entrepreneurial contributions to the field as a founder, senior executive, board member or employee of a product-led digital technology company
-	1. Or Number 1?: innovation as a founder of a product led digital technology company or as an employee working on a new digital field or concept
+1. OC 2 Recognized for my work outside of my immediate occupation that contributed to the advancement of the sector)
+2. OC 3: Made a significant technical, commercial or entrepreneurial contributions to the field as a founder, senior executive, board member or employee of a product-led digital technology company
+
+OC 1 (about the contribution of innovation as an employee of a company) cannot be used without verifiable "innovations", e.g. Google Patents.
 
 ## Recommendation letters (3)
 
