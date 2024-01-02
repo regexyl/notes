@@ -5,8 +5,12 @@
 
 - Show they have been recognized as having potential to be a leading talent in the digital technology field in the last 5 years.
 	- 📋 At least two documents needed - for me it's potentially:
-		- *open source*
-		- Meta internship? (not sure about this)
+		- Outside of your normal day-to-day job role, you led or were a significant contributor to a substantial open source project, as evidenced from compilation of code commit summaries, repo stars or similar metrics such as download statistics, where possible.
+			- A single open source project core contributor
+		- You command a high salary or other remuneration for your services, as evidenced by commercial or employment contracts with salary information including any bonus and equity options and history of earnings.
+			- Meta internship? (not sure about this)
+			- Bebop offer letter
+			- Goldman Sachs + Credit Suisse renumeration
 
 ### Non-mandatory
 
