@@ -1,8 +1,3 @@
-
-# Case Studies
-- [Ademola Adegbuyi](https://medium.com/@ooade/my-experience-applying-for-a-global-talent-visa-95d906e06925) - Nov '22
-- [Ahmad Faiyaz](https://faiyaz26.medium.com/how-did-i-get-uk-tier-1-global-talent-visa-3a9a5ecb4e73) - Nov '21
-
 # Application
 ## Criteria
 
@@ -52,9 +47,16 @@ Note
 	4. Awarded bounty of USD 100 ([source](https://github.com/calcom/cal.com/issues/3563)).
 2. 🟠 Need more contributions
 
+## Successful Case Studies
+- [Ademola Adegbuyi](https://medium.com/@ooade/my-experience-applying-for-a-global-talent-visa-95d906e06925) - Nov '22
+- [Ahmad Faiyaz](https://faiyaz26.medium.com/how-did-i-get-uk-tier-1-global-talent-visa-3a9a5ecb4e73) - Nov '21
 ## Rejection Case Studies
 
 - [SWE of a Fintech company (Apr '23)](https://discourse.tnvisaforum.org/t/stage-1-exceptional-promise-application-rejected/6754)
 	- MC1: The applicant mentioned they boosted a particular feature's speed, but did not mention the **original speed figure** and the magnitude of the change - warning: do not mention insignificant changes.
 	- OC2: The applicant's referee mentioned that they mentored 50+ developers in a community program, but there was no mention of how they were selected to be mentors, when it happened and if it was consistent.
-	- OC3: The applicant did not share specific numbers for which a percentage growth (i.e. 15,000%) was stated, so it was not clear what the initial figure was and its total impact. An image was shared, but there's no evidence that it's linked to the company it stated it's linked to. "Writing integration tests to reduce bug frequency" was also stated, 
+	- OC3: The applicant did not share specific numbers for which a percentage growth (i.e. 15,000%) was stated, so it was not clear what the initial figure was and its total impact. An image was shared, but there's no evidence that it's linked to the company it stated it's linked to. "Writing integration tests to reduce bug frequency" was also stated, but no tangible result was mentioned.
+
+### Note
+
+- Contributions to a private repo cannot be independently verified, so it cannot be counted.
