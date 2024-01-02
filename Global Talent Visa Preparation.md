@@ -63,4 +63,4 @@ Note
 
 - Contributions to a private repo cannot be independently verified, so it cannot be counted.
 - Certificates and contracts are only to support your primary evidence. They are not strong and are not enough to show that you are exceptionally better than standard persons. ([source](https://discourse.tnvisaforum.org/t/urgent-please-help-with-exceptional-promise-rejection/5926/2))
-- When the c
+- When the criteria mentions a "product-led company", it literally means what it says, i.e. outsourcing, consultancy (e.g. PWC), service delivery, ERP consultancy are not counted. (source)
