@@ -23,7 +23,9 @@
 OC 1 (about the contribution of innovation as an employee of a company) cannot be used without verifiable "innovations", e.g. Google Patents.
 
 📕 OC2 Evidence
-- op
+- open source
+- technical blog posts
+- 
 
 📕 OC3 Evidence
 
