@@ -35,4 +35,5 @@ Note
 1. Calcom - [Add Meta Pixel app](https://github.com/calcom/cal.com/pull/8476)
 	1. Lines of code added and deleted: +1,155, -82
 	2. Added an app plugin to the open source calendar platform for users to register one's Meta Pixel ID to measure, optimize and build audiences for ad campaigns.
-	3. Part of a building a 
+	3. Part of a building a wide ecosystem of plugins to enhance user functionality on Calcom.
+	4. Awarded bounty of USD 100 ([source](https://github.com/calcom/cal.com/issues/3563))
