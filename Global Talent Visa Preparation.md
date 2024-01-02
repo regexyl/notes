@@ -18,12 +18,13 @@
 OC 1 (about the contribution of innovation as an employee of a company) cannot be used without verifiable "innovations", e.g. Google Patents.
 
 📕 OC2 Evidence
-- open source
 - technical blog posts
-- 
+- hosting a meetup
 
-📕 OC3 Evidence
-
+📕 OC3 Evidence (not sure if it's even possible)
+- company letter (not the recommendation letter)
+- contract
+- lines of code + sample of PRs
 ## Recommendation letters (3)
 
 - Bebop - Katia Banina (CEO)
