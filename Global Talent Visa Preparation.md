@@ -6,11 +6,10 @@
 # Application
 ## Criteria
 
-1. Pick criteria you match  
-2. 3 recommendation letters from different people in different organizations 3. 10 documents with evidence supporting your chosen criteria  
-4. CV  
-5. Personal statement
-
+1. Optional criteria #2 (recognised for my work outside of my immediate occupation that contributed to the advancement of the sector)
+2. 2. made a significant technical, commercial or entrepreneurial contributions to the
+    
+    field as a founder, senior executive, board member or employee of a product-led digital technology company
 
 ## Recommendation letters (3)
 
