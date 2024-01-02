@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Goals.md",
+                "file": "Global Talent Visa Preparation.md",
                 "mode": "source",
                 "source": false
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Goals.md",
+                "file": "Global Talent Visa Preparation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Goals.md",
+                "file": "Global Talent Visa Preparation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Goals.md"
+                "file": "Global Talent Visa Preparation.md"
               }
             }
           }
@@ -215,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Goals.md",
+                "file": "Global Talent Visa Preparation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Goals.md",
+                "file": "Global Talent Visa Preparation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Goals.md"
+                "file": "Global Talent Visa Preparation.md"
               }
             }
           }
@@ -281,11 +281,11 @@
   },
   "active": "4cd473844370b9f0",
   "lastOpenFiles": [
+    "2024 Goals.md",
     "separate page.md",
     "Things to Learn.md",
     "Things to Do.md",
     "Global Talent Visa Preparation.md",
-    "2024 Goals.md",
     "Some undersold tools for learning OSS.md",
     "Google Chrome Shortcuts.md",
     "Google Chrome Shortcuts 2.md",
