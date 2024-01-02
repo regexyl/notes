@@ -12,5 +12,6 @@ Things to learn about in my downtime. I'm just putting things down here for time
 - [ ] Read up on WebRTC
 - [ ] Check out Mateusz's comment on TS on Twitter (I've probably bookmarked it slightly before mid Dec)
 - [ ] Read the Parcel documentation (there was a tweet by @hardfist_1 that says "Parcel documentation explains lots of bundler concept very well, give it a read even if you dont use it")
+- [ ] Watch Zack Jackson's talk on [Beyond Federation](https://www.youtube.com/watch?v=qrM3IDcNnlQ)
 
 [^r-tree-source]: I was reading up different ways to solve Advent of Code 2023 Day 3's problem when I came across [this Reddit comment](https://www.reddit.com/r/adventofcode/comments/189m3qw/comment/kc7riqn/?utm_source=share&utm_medium=web2x&context=3) that implemented an R-tree solution with C++. The question was asking for a way to count elements that were neighboring several types of prescribed punctuation values, in sort of a 2D matrix structure.

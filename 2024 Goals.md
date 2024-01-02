@@ -33,3 +33,5 @@ Goal format:
 3. Write a blog article at least once a month - I should always be in the midst of writing one blog article.
 	1. At least 12 articles by end-2024, but I'll try for 20 articles as a target.
 	2. I can try exploring other mediums to put my content out, but link them back to my own website
+
+##

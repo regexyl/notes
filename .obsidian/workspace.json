@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Things to Learn.md",
+                "file": "2024 Goals.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Global Talent Visa Preparation.md",
+                "file": "Things to Learn.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,8 +59,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,6 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024 Goals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,6 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024 Goals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +205,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024 Goals.md"
+              }
             }
           }
         ]
@@ -219,6 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024 Goals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,6 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024 Goals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,7 +261,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024 Goals.md"
+              }
             }
           }
         ]
@@ -279,14 +286,14 @@
       "templates:Insert template": false
     }
   },
-  "active": "e8d0f43effbcbe7b",
+  "active": "504ef2793d578a35",
   "lastOpenFiles": [
+    "Things to Learn.md",
+    "Some undersold tools for learning OSS.md",
+    "Things to Do.md",
     "Global Talent Visa Preparation.md",
     "2024 Goals.md",
     "separate page.md",
-    "Things to Learn.md",
-    "Things to Do.md",
-    "Some undersold tools for learning OSS.md",
     "Google Chrome Shortcuts.md",
     "Google Chrome Shortcuts 2.md",
     "How `AnimatePresence` in framer-motion works.md",
