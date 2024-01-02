@@ -31,8 +31,12 @@ OC 1 (about the contribution of innovation as an employee of a company) cannot b
 - Meta - Fernando Ciciliati (EM)
 - SMU - Jiang Lingxiao (Prof for Guided Research)
 
-Note
-- Might need to include referee's CVs inside the application ([source](https://discourse.tnvisaforum.org/t/how-to-appeal-my-stage-1-feedback/6731))
+Note ([source](https://stagetechn.wpengine.com/visa-tech-nation-visa-guide/#document-checklist))
+- Be typed and dated
+- Be up to 3 single sides of A4 paper, excluding the author’s credentials and contact details
+- Be signed by the author, or by someone on behalf of the organisation recommending you
+- Include a telephone number and email address, and the organisation’s logo and registered address, if applicable
+- ⚠️ **Come with the author’s CV** (or other proof of their credentials that the endorsing body will accept)
 
 ## Documentation
 
