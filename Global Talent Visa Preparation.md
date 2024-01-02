@@ -57,4 +57,4 @@ Note
 - [SWE of a Fintech company (Apr '23)](https://discourse.tnvisaforum.org/t/stage-1-exceptional-promise-application-rejected/6754)
 	- MC1: The applicant mentioned they boosted a particular feature's speed, but did not mention the **original speed figure** and the magnitude of the change - warning: do not mention insignificant changes.
 	- OC2: The applicant's referee mentioned that they mentored 50+ developers in a community program, but there was no mention of how they were selected to be mentors, when it happened and if it was consistent.
-	- OC3: 
+	- OC3: The applicant did not share specific numbers for which a percentage growth (i.e. 15,000%) was stated, so it was not clear what the initial figure was and its total impact. An image was shared, but there's no evidence that it's linked to the company it stated it's linked to. "Writing integration tests to reduce bug frequency" was also stated, 
