@@ -34,4 +34,7 @@ Goal format:
 	1. At least 12 articles by end-2024, but I'll try for 20 articles as a target.
 	2. I can try exploring other mediums to put my content out, but link them back to my own website
 
-##
+# Notes
+
+Participating in JS conferences?
+1. CityJS Singapore 2024: 24-26 July 2024 ([call for papers](https://docs.google.com/forms/d/e/1FAIpQLSf52q0flItLW5TVzsQAyKx05VClxedG-BHCWk-et0qCSpQL_Q/viewform): 15 June 2024)
