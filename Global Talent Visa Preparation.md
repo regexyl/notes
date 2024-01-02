@@ -6,10 +6,8 @@
 # Application
 ## Criteria
 
-1. Optional criteria #2 (recognised for my work outside of my immediate occupation that contributed to the advancement of the sector)
-2. 2. made a significant technical, commercial or entrepreneurial contributions to the
-    
-    field as a founder, senior executive, board member or employee of a product-led digital technology company
+1. Number 2: Recognized for my work outside of my immediate occupation that contributed to the advancement of the sector)
+2. Number 3: Made a significant technical, commercial or entrepreneurial contributions to the field as a founder, senior executive, board member or employee of a product-led digital technology company
 
 ## Recommendation letters (3)
 
