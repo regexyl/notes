@@ -51,3 +51,8 @@ Note
 	3. Part of a building a wide ecosystem of plugins to enhance user functionality on Calcom.
 	4. Awarded bounty of USD 100 ([source](https://github.com/calcom/cal.com/issues/3563)).
 2. 🟠 Need more contributions
+
+## Rejection Case Studies
+
+- [SWE of a Fintech company (Apr '23)](https://discourse.tnvisaforum.org/t/stage-1-exceptional-promise-application-rejected/6754)
+	- The applicant mentioned he boosted a particular feature's speed, but did not mention the **original speed figure** and the magnitude of the change - warning: do not mention insignificant changes.
