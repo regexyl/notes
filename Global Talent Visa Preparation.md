@@ -4,7 +4,7 @@
 - [Ahmad Faiyaz](https://faiyaz26.medium.com/how-did-i-get-uk-tier-1-global-talent-visa-3a9a5ecb4e73) - Nov '21
 
 # Application
-## 1. Criteria
+## Criteria
 
 1. Pick criteria you match  
 2. 3 recommendation letters from different people in different organizations 3. 10 documents with evidence supporting your chosen criteria  
@@ -12,10 +12,11 @@
 5. Personal statement
 
 
-## 2. Recommendation letters (3)
+## Recommendation letters (3)
 
 - Bebop - Katia Banina
 - Meta - Fernando Ciciliati
 
 ## Documentation
 
+1. Publications - technical blog posts (Aiming for 10 blog posts for 50,000+ views in total)
