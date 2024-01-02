@@ -22,6 +22,11 @@
 
 OC 1 (about the contribution of innovation as an employee of a company) cannot be used without verifiable "innovations", e.g. Google Patents.
 
+📕 OC2 Evidence
+- op
+
+📕 OC3 Evidence
+
 ## Recommendation letters (3)
 
 - Bebop - Katia Banina (CEO)
