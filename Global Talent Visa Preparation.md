@@ -48,9 +48,11 @@ Note
 2. 🟠 Need more contributions
 
 ## Successful Case Studies
+
 - [Ademola Adegbuyi](https://medium.com/@ooade/my-experience-applying-for-a-global-talent-visa-95d906e06925) - Nov '22
 - [Ahmad Faiyaz](https://faiyaz26.medium.com/how-did-i-get-uk-tier-1-global-talent-visa-3a9a5ecb4e73) - Nov '21
-## Rejection Case Studies
+
+## Rejected Case Studies
 
 - [SWE of a Fintech company (Apr '23)](https://discourse.tnvisaforum.org/t/stage-1-exceptional-promise-application-rejected/6754)
 	- MC1: The applicant mentioned they boosted a particular feature's speed, but did not mention the **original speed figure** and the magnitude of the change - warning: do not mention insignificant changes.
