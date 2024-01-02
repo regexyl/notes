@@ -9,12 +9,14 @@
 ### Mandatory
 
 - Show they have been recognized as having potential to be a leading talent in the digital technology field in the last 5 years.
-	- 📋 At least t
+	- 📋 At least two documents needed - for me it's *open source* + 
 
 ### Non-mandatory
 
-1. OC 2 Recognized for my work outside of my immediate occupation that contributed to the advancement of the sector)
+1. OC 2: Recognized for my work outside of my immediate occupation that contributed to the advancement of the sector)
 2. OC 3: Made a significant technical, commercial or entrepreneurial contributions to the field as a founder, senior executive, board member or employee of a product-led digital technology company
+
+📋 At least four documents needed for the above two optional criteria.
 
 OC 1 (about the contribution of innovation as an employee of a company) cannot be used without verifiable "innovations", e.g. Google Patents.
 
