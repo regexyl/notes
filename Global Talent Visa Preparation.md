@@ -33,4 +33,6 @@ Note
 
 ### Open Source
 1. Calcom - [Add Meta Pixel app](https://github.com/calcom/cal.com/pull/8476)
-	1. 
+	1. Lines of code added and deleted: +1,155, -82
+	2. Added an app plugin to the open source calendar platform for users to register one's Meta Pixel ID to measure, optimize and build audiences for ad campaigns.
+	3. Part of a building a 
