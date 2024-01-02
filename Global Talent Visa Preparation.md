@@ -9,7 +9,9 @@
 ### Mandatory
 
 - Show they have been recognized as having potential to be a leading talent in the digital technology field in the last 5 years.
-	- 📋 At least two documents needed - for me it's *open source* + 
+	- 📋 At least two documents needed - for me it's potentially:
+		- *open source*
+		- Meta internship? (not sure about this)
 
 ### Non-mandatory
 
