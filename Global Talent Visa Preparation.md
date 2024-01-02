@@ -19,8 +19,9 @@ OC 1 (about the contribution of innovation as an employee of a company) cannot b
 
 ## Recommendation letters (3)
 
-- Bebop - Katia Banina
-- Meta - Fernando Ciciliati
+- Bebop - Katia Banina (CEO)
+- Meta - Fernando Ciciliati (EM)
+- SMU - Jiang Lingxiao (Prof for Guided Research)
 
 Note
 - Might need to include referee's CVs inside the application ([source](https://discourse.tnvisaforum.org/t/how-to-appeal-my-stage-1-feedback/6731))
@@ -33,7 +34,7 @@ Note
 
 ### Open Source
 1. Calcom - [Add Meta Pixel app](https://github.com/calcom/cal.com/pull/8476)
-	1. Lines of code added and deleted: +1,155, -82
+	1. Lines of code added and deleted: +1,155, -82.
 	2. Added an app plugin to the open source calendar platform for users to register one's Meta Pixel ID to measure, optimize and build audiences for ad campaigns.
 	3. Part of a building a wide ecosystem of plugins to enhance user functionality on Calcom.
-	4. Awarded bounty of USD 100 ([source](https://github.com/calcom/cal.com/issues/3563))
+	4. Awarded bounty of USD 100 ([source](https://github.com/calcom/cal.com/issues/3563)).
