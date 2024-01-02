@@ -22,6 +22,9 @@ OC 1 (about the contribution of innovation as an employee of a company) cannot b
 - Bebop - Katia Banina
 - Meta - Fernando Ciciliati
 
+Note
+- Might need to include referee's CVs inside the application ([source](https://discourse.tnvisaforum.org/t/how-to-appeal-my-stage-1-feedback/6731))
+
 ## Documentation
 
 1. Publications - technical blog posts (Aiming for 10 blog posts by March 2024, 50,000+ views in total)
