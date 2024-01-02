@@ -30,3 +30,7 @@ Note
 1. Publications - technical blog posts (Aiming for 10 blog posts by March 2024, 50,000+ views in total)
 2. Employment by Meta and Grab + Offers from Goldman Sachs and Credit Suisse 
 3. Employment by Bebop + average of CS degrees in SG
+
+### Open Source
+1. Calcom - [Add Meta Pixel app](https://github.com/calcom/cal.com/pull/8476)
+	1. 
