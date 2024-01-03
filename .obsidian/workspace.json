@@ -177,7 +177,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Global Talent Visa Preparation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +193,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Global Talent Visa Preparation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,9 +214,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Global Talent Visa Preparation.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -233,7 +229,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Global Talent Visa Preparation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +245,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Global Talent Visa Preparation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -272,9 +266,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Global Talent Visa Preparation.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -299,11 +291,11 @@
   },
   "active": "44bdd65eb9f932ce",
   "lastOpenFiles": [
+    "Global Talent Visa Preparation.md",
     "2024 Goals.md",
     "Things to Learn.md",
     "Some undersold tools for learning OSS.md",
     "Things to Do.md",
-    "Global Talent Visa Preparation.md",
     "separate page.md",
     "Google Chrome Shortcuts.md",
     "Google Chrome Shortcuts 2.md",
