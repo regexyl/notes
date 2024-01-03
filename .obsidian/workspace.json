@@ -59,7 +59,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -166,7 +167,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Global Talent Visa Preparation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Global Talent Visa Preparation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,9 +204,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Global Talent Visa Preparation.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -222,7 +219,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Global Talent Visa Preparation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +235,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Global Talent Visa Preparation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,9 +256,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Global Talent Visa Preparation.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -286,12 +279,12 @@
       "templates:Insert template": false
     }
   },
-  "active": "504ef2793d578a35",
+  "active": "b7faa1166458d434",
   "lastOpenFiles": [
-    "Global Talent Visa Preparation.md",
-    "2024 Goals.md",
     "Things to Learn.md",
     "Some undersold tools for learning OSS.md",
+    "Global Talent Visa Preparation.md",
+    "2024 Goals.md",
     "Things to Do.md",
     "separate page.md",
     "Google Chrome Shortcuts.md",
