@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "44bdd65eb9f932ce",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
+          },
+          {
             "id": "6bfcaa51b11d725d",
             "type": "leaf",
             "state": {
@@ -59,7 +69,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -286,7 +297,7 @@
       "templates:Insert template": false
     }
   },
-  "active": "504ef2793d578a35",
+  "active": "44bdd65eb9f932ce",
   "lastOpenFiles": [
     "2024 Goals.md",
     "Things to Learn.md",
