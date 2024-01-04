@@ -58,9 +58,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "4ad50135afdd6dbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "`forEach` vs `for...of` in JS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -167,6 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "`forEach` vs `for...of` in JS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,6 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "`forEach` vs `for...of` in JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +218,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "`forEach` vs `for...of` in JS.md"
+              }
             }
           }
         ]
@@ -219,6 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "`forEach` vs `for...of` in JS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,6 +252,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "`forEach` vs `for...of` in JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,7 +274,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "`forEach` vs `for...of` in JS.md"
+              }
             }
           }
         ]
@@ -279,8 +299,9 @@
       "templates:Insert template": false
     }
   },
-  "active": "b7faa1166458d434",
+  "active": "4ad50135afdd6dbf",
   "lastOpenFiles": [
+    "`forEach` vs `for...of` in JS.md",
     "Things to Learn.md",
     "Some undersold tools for learning OSS.md",
     "Global Talent Visa Preparation.md",
