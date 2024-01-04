@@ -71,8 +71,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "`forEach` vs `for...of` in JS.md",
+                "file": "Global Talent Visa Preparation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "`forEach` vs `for...of` in JS.md",
+                "file": "Global Talent Visa Preparation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "`forEach` vs `for...of` in JS.md"
+                "file": "Global Talent Visa Preparation.md"
               }
             }
           }
@@ -235,7 +234,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "`forEach` vs `for...of` in JS.md",
+                "file": "Global Talent Visa Preparation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,7 +251,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "`forEach` vs `for...of` in JS.md",
+                "file": "Global Talent Visa Preparation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -275,7 +274,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "`forEach` vs `for...of` in JS.md"
+                "file": "Global Talent Visa Preparation.md"
               }
             }
           }
@@ -299,7 +298,7 @@
       "templates:Insert template": false
     }
   },
-  "active": "4ad50135afdd6dbf",
+  "active": "504ef2793d578a35",
   "lastOpenFiles": [
     "`forEach` vs `for...of` in JS.md",
     "Things to Learn.md",
