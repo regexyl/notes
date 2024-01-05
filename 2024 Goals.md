@@ -6,14 +6,15 @@ Goal format:
 ## 3-day goals (5-7 Jan)
 
 - Finish writing the [[How `AnimatePresence` in framer-motion works]] blog post + publish it
-- Submit 1 PR to motion (fixing AnimatePresence sequence)
+- Submit 2 PRs to framer-motion (fixing AnimatePresence sequence)
 - Finish days 3-8's worth of AOC
-- Complete
+- Apply to criteria-fitting 10 jobs
 
 ## 7-day goals (5-11 Jan)
 
 - All of the above
 - Finish Day 3-13 AOC
+- Apply to 30 jobs
 
 # Todo
 
