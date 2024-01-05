@@ -3,16 +3,17 @@ Goal format:
 
 # Rolling 3 + 7-day goals
 
-## 3-day goals
+## 3-day goals (5-7 Jan)
 
 - Finish writing the [[How `AnimatePresence` in framer-motion works]] blog post + publish it
-- S
+- Submit 1 PR to motion (fixing AnimatePresence sequence)
 - Finish days 3-8's worth of AOC
-- 
+- Complete
 
-## 7-day goals
+## 7-day goals (5-11 Jan)
 
-- a
+- All of the above
+- Finish Day 3-13 AOC
 
 # Todo
 
