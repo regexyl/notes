@@ -1,6 +1,19 @@
 Goal format:
 `<Do something> <how much> <by when>`
 
+# Rolling 3 + 7-day goals
+
+## 3-day goals
+
+- Finish writing the [[How `AnimatePresence` in framer-motion works]] blog post + publish it
+- S
+- Finish days 3-8's worth of AOC
+- 
+
+## 7-day goals
+
+- a
+
 # Todo
 
 - [ ] Evaluate my progress for my goals on a bi-weekly basis.
