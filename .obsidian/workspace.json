@@ -71,7 +71,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -178,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Goals.md",
+                "file": "Things to Learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Goals.md",
+                "file": "Things to Learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Goals.md"
+                "file": "Things to Learn.md"
               }
             }
           }
@@ -234,7 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Goals.md",
+                "file": "Things to Learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -251,7 +252,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Goals.md",
+                "file": "Things to Learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -274,7 +275,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Goals.md"
+                "file": "Things to Learn.md"
               }
             }
           }
@@ -298,13 +299,13 @@
       "templates:Insert template": false
     }
   },
-  "active": "504ef2793d578a35",
+  "active": "4cd473844370b9f0",
   "lastOpenFiles": [
+    "Some undersold tools for learning OSS.md",
+    "2024 Goals.md",
     "Global Talent Visa Preparation.md",
     "`forEach` vs `for...of` in JS.md",
     "Things to Learn.md",
-    "Some undersold tools for learning OSS.md",
-    "2024 Goals.md",
     "Things to Do.md",
     "separate page.md",
     "Google Chrome Shortcuts.md",
