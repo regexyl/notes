@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How AnimatePresence in framer-motion works.md",
+                "file": "Early 2024 Timeline.md",
                 "mode": "source",
                 "source": false
               }
@@ -161,8 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211.5,
-    "collapsed": true
+    "width": 211.5
   },
   "right": {
     "id": "55f1db9486a4e6fb",
@@ -178,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How AnimatePresence in framer-motion works.md",
+                "file": "Early 2024 Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How AnimatePresence in framer-motion works.md",
+                "file": "Early 2024 Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How AnimatePresence in framer-motion works.md"
+                "file": "Early 2024 Timeline.md"
               }
             }
           }
@@ -234,7 +233,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How AnimatePresence in framer-motion works.md",
+                "file": "Early 2024 Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -251,7 +250,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How AnimatePresence in framer-motion works.md",
+                "file": "Early 2024 Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -274,7 +273,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How AnimatePresence in framer-motion works.md"
+                "file": "Early 2024 Timeline.md"
               }
             }
           }
@@ -300,20 +299,20 @@
   },
   "active": "504ef2793d578a35",
   "lastOpenFiles": [
+    "2024 Goals.md",
+    "`forEach` vs `for...of` in JS.md",
+    "How AnimatePresence in framer-motion works.md",
     "Pasted image 20240107024447.png",
     "Pasted image 20240107023848.png",
     "Pasted image 20240107023831.png",
     "Pasted image 20240107022517.png",
-    "2024 Goals.md",
     "Things to Learn.md",
     "Some undersold tools for learning OSS.md",
     "Global Talent Visa Preparation.md",
-    "`forEach` vs `for...of` in JS.md",
     "Things to Do.md",
     "separate page.md",
     "Google Chrome Shortcuts.md",
     "Google Chrome Shortcuts 2.md",
-    "How AnimatePresence in framer-motion works.md",
     "Understanding library codebases in a better way.md",
     "Gaming React with `postMessage` - and why it's a bad idea.md",
     "Early 2024 Timeline.md",

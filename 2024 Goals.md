@@ -1,3 +1,7 @@
+---
+draft: "true"
+---
+
 Goal format:
 `<Do something> <how much> <by when>`
 

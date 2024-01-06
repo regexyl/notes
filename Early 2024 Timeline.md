@@ -1,5 +1,6 @@
 ---
 publish: "false"
+draft: "true"
 ---
 Goals for rest of December
 1. Finish AoC and AoT
