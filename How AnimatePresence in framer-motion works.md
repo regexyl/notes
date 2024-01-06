@@ -60,11 +60,11 @@ Next, imagine if `Child2` needs to be removed and we need to trigger its exit an
 
 React updates `currentChildren` once `Child2` is removed, showing that only `Child1` remains. From this, we can derive a third state: `exitingChildren`, which takes the difference between `allChildren` and `currentChildren`.
 
-This third state is crucial. Firstly, we want to trigger the exit animations once an element is registered as 'exiting'. Secondly, we want to remove that element
+This third state is crucial. Firstly, we want to trigger the exit animations once an element is registered as 'exiting'. Secondly, we want to ensure that this particular element is deleted from `AnimatePresence` so that we don't keep unnecessary references to elements that don't exist in the React tree.
 
 ![[Pasted image 20240107023848.png]]
 
-
+This is what the final state looks like after `Child2` has completely exited the DOM: `AnimatePresence` does not maintain a trace to it anymore.
 
 ![[Pasted image 20240107024447.png]]
 

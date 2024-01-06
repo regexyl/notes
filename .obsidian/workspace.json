@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How <AnimatePresence> in framer-motion works.md",
+                "file": "How AnimatePresence in framer-motion works.md",
                 "mode": "source",
                 "source": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How <AnimatePresence> in framer-motion works.md",
+                "file": "How AnimatePresence in framer-motion works.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How <AnimatePresence> in framer-motion works.md",
+                "file": "How AnimatePresence in framer-motion works.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How <AnimatePresence> in framer-motion works.md"
+                "file": "How AnimatePresence in framer-motion works.md"
               }
             }
           }
@@ -234,7 +234,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How <AnimatePresence> in framer-motion works.md",
+                "file": "How AnimatePresence in framer-motion works.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -251,7 +251,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How <AnimatePresence> in framer-motion works.md",
+                "file": "How AnimatePresence in framer-motion works.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -274,7 +274,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How <AnimatePresence> in framer-motion works.md"
+                "file": "How AnimatePresence in framer-motion works.md"
               }
             }
           }
@@ -313,7 +313,7 @@
     "separate page.md",
     "Google Chrome Shortcuts.md",
     "Google Chrome Shortcuts 2.md",
-    "How <AnimatePresence> in framer-motion works.md",
+    "How AnimatePresence in framer-motion works.md",
     "Understanding library codebases in a better way.md",
     "Gaming React with `postMessage` - and why it's a bad idea.md",
     "Early 2024 Timeline.md",
