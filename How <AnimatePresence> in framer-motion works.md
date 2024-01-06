@@ -38,8 +38,15 @@ The exit animation is triggered when `isVisible` becomes `false`. Theoretically,
 
 Here's where `<AnimatePresence>` does something sneaky.
 
-## The magic sauce: `React.useRef`
+## The secret sauce: `React.useRef`
 
-Did someone say "give me a tool that reliably stores existing state during re-renders *and* does not cause a component re-render when its state is updated"? `React.useRef` does just that. We also want to be able to control when exactly children within `AnimatePresence` re-render, so using `useRef` instead of `useState` comes in handy here.
+Did someone say "give me a tool that reliably stores existing state during re-renders *and* does not cause a component re-render when its state is updated"? `React.useRef` does just that. 
+
+We also want to be able to control when exactly children within `AnimatePresence` re-render to minimize unnecessary overhead, so choosing `useRef` instead of `useState` comes in handy here.
+
+Here's how framer-motion implemented `AnimatePresence`:
+
+
+![[Pasted image 20240107022517.png]]
 
 [^declarative-vs-imperative]: [What is the difference between declarative and imperative paradigm in programming?](https://stackoverflow.com/questions/1784664/what-is-the-difference-between-declarative-and-imperative-paradigm-in-programmin)
