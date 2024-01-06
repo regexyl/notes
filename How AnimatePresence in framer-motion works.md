@@ -12,7 +12,7 @@ The two most popular choices now (circa Jan 2024) are [React Transition Group](h
 
 ## A brief introduction to `AnimatePresence`
 
->`AnimatePresence` allows components to animate out when they're removed from the React tree. ([Framer Motion docs](https://www.framer.com/motion/animate-presence/))
+>`AnimatePresence` allows components to animate out when they're removed from the React tree.[^motion-docs]
 
 This is what it looks like in code:
 
@@ -68,4 +68,7 @@ This is what the final state looks like after `Child2` has completely exited the
 
 ![[Pasted image 20240107024447.png]]
 
+So there you have it - it's not rocket science, it's just a bit of React trickery behind the scenes!
+
 [^declarative-vs-imperative]: [What is the difference between declarative and imperative paradigm in programming?](https://stackoverflow.com/questions/1784664/what-is-the-difference-between-declarative-and-imperative-paradigm-in-programmin)
+[^motion-docs]: [AnimatePresence in Motion docs](https://www.framer.com/motion/animate-presence/)
