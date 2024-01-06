@@ -58,7 +58,14 @@ Suppose that we have `Child1` and `Child2` wrapped within `AnimatePresence`, and
 
 Next, imagine if `Child2` needs to be removed and we need to trigger its exit animation.
 
-React updates `currentChildren` once `Child2` is removed, showing that only `Child1` remains. From this, we can derive a third state: `exitingChildren`, which takes the difference between a`currentChildren`
+React updates `currentChildren` once `Child2` is removed, showing that only `Child1` remains. From this, we can derive a third state: `exitingChildren`, which takes the difference between `allChildren` and `currentChildren`.
+
+This third state is crucial. Firstly, we want to trigger the exit animations once an element is registered as 'exiting'. Secondly, we want to remove that element
 
 ![[Pasted image 20240107023848.png]]
+
+
+
+![[Pasted image 20240107024447.png]]
+
 [^declarative-vs-imperative]: [What is the difference between declarative and imperative paradigm in programming?](https://stackoverflow.com/questions/1784664/what-is-the-difference-between-declarative-and-imperative-paradigm-in-programmin)
