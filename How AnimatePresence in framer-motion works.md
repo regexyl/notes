@@ -70,7 +70,7 @@ This is what the final state looks like after `Child2` has completely exited the
 
 So there you have it - it's a bit of React trickery behind the scenes! The framer-motion state names have been altered for the purposes of this article, but this distills the essence of how `AnimatePresence` works.
 
-P.s. while reading the implementation of `AnimatePresence`, I've noticed [a bug which caused some components to not exit in sequence](https://github.com/framer/motion/pull/2477). The [PR](https://github.com/framer/motion/pull/2477) for fixing this has been submitted and is awaiting review.
+P.s. while reading the implementation of `AnimatePresence`, I've noticed [a bug which caused some components to not exit in sequence](https://github.com/framer/motion/issues/2462). The [PR](https://github.com/framer/motion/pull/2477) for fixing this has been submitted and is awaiting review.
 
 [^declarative-vs-imperative]: [What is the difference between declarative and imperative paradigm in programming?](https://stackoverflow.com/questions/1784664/what-is-the-difference-between-declarative-and-imperative-paradigm-in-programmin)
 [^motion-docs]: [AnimatePresence in Motion docs](https://www.framer.com/motion/animate-presence/)
