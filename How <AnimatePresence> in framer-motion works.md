@@ -37,6 +37,6 @@ The exit animation is triggered when `isVisible` becomes `false`. Theoretically,
 
 Here's where `<AnimatePresence>` does something sneaky.
 
-## The magic sauce: React.useRef 
+## The magic sauce: `React.useRef`
 
-Remember `React.useRef`? 
+Did someone say "give me a tool that reliably stores existing state during re-renders and allo". Remember `React.useRef`? 
