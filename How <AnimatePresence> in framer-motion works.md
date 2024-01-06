@@ -46,14 +46,19 @@ We also want to be able to control when exactly children within `AnimatePresence
 
 With that in mind, here's how framer-motion implemented `AnimatePresence`:
 
-![[Pasted image 20240107022517.png]]
-
 Imagine there's reality and alternate reality. Picture React's version of the DOM tree as reality, and framer-motion's version as alternate reality. Because we want to enhance our React codebase with exiting animations, let's call this 'alternate reality' solely for the purpose of this article. 'Alternate reality' is what we want to show to users of our app, or whatever we're building, so that they see the fancy-schmancy version instead of the dull, old vanilla version of things.
 
 Two states comes into play in our alternate reality:
 1. `currentChildren`: elements that are in the React tree - our source of truth
 2. `allChildren`: elements that are in the React tree (i.e. `currentChildren`) + elements that are *exiting* the DOM
 
-Suppose that we have `Child1` and `Child2` wrapped within `AnimatePresence`, and none of them are exiting the DOM yet. 
+Suppose that we have `Child1` and `Child2` wrapped within `AnimatePresence`, and none of them are exiting the DOM yet. Here's what the above two states like would look in framer-motion:
 
+![[Pasted image 20240107022517.png]]
+
+Next, imagine if `Child2` needs to be removed and we need to trigger its exit animation.
+
+React updates `currentChildren` once `Child2` is removed, showing that only `Child1` remains. From this, we can derive a third state: `exitingChildren`, which takes the difference between a`currentChildren`
+
+![[Pasted image 20240107023848.png]]
 [^declarative-vs-imperative]: [What is the difference between declarative and imperative paradigm in programming?](https://stackoverflow.com/questions/1784664/what-is-the-difference-between-declarative-and-imperative-paradigm-in-programmin)
