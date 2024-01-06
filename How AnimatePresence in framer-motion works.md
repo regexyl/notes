@@ -60,7 +60,7 @@ Next, imagine if `Child2` needs to be removed and we need to trigger its exit an
 
 React updates `currentChildren` once `Child2` is removed, showing that only `Child1` remains. From this, we can derive a third state: `exitingChildren`, which takes the difference between `allChildren` and `currentChildren`.
 
-This third state is crucial. Firstly, we want to trigger the exit animations once an element is registered as 'exiting'. Secondly, we want to ensure that this particular element is deleted from `AnimatePresence` so that we don't keep unnecessary references to elements that don't exist in the React tree.
+This third state, `exitingChildren`, is crucial. Firstly, we want to trigger the exit animations once an element is registered as 'exiting'. Secondly, we want to ensure that this particular element is deleted from `AnimatePresence` so that we don't keep unnecessary references to elements that don't exist in the React tree.
 
 ![[Pasted image 20240107023848.png]]
 
@@ -70,8 +70,7 @@ This is what the final state looks like after `Child2` has completely exited the
 
 So there you have it - it's a bit of React trickery behind the scenes! The framer-motion state names have been altered for the purposes of this article, but this distills the essence of how `AnimatePresence` works.
 
-P.s. while reading the code implementation of `AnimatePresence`, I've noticed a bug which caused some components to not exit in sequence.[^bug] The PR 
+P.s. while reading the implementation of `AnimatePresence`, I've noticed [a bug which caused some components to not exit in sequence](https://github.com/framer/motion/pull/2477). The [PR](https://github.com/framer/motion/pull/2477) for fixing this has been submitted and is awaiting review.
 
 [^declarative-vs-imperative]: [What is the difference between declarative and imperative paradigm in programming?](https://stackoverflow.com/questions/1784664/what-is-the-difference-between-declarative-and-imperative-paradigm-in-programmin)
 [^motion-docs]: [AnimatePresence in Motion docs](https://www.framer.com/motion/animate-presence/)
-[^bug]: [[BUG] `AnimatePresence` does not execute exiting animations in sequence during fast renders](https://github.com/framer/motion/issues/2462)
