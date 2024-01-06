@@ -44,9 +44,12 @@ Did someone say "give me a tool that reliably stores existing state during re-re
 
 We also want to be able to control when exactly children within `AnimatePresence` re-render to minimize unnecessary overhead, so choosing `useRef` instead of `useState` comes in handy here.
 
-Here's how framer-motion implemented `AnimatePresence`:
-
+With that in mind, here's how framer-motion implemented `AnimatePresence`:
 
 ![[Pasted image 20240107022517.png]]
+
+Imagine there's reality and alternate reality. Picture React's version of the DOM tree as reality, and framer-motion's version as alternate reality. Because we want to enhance our React codebase with exiting animations, let's call this 'alternate reality' solely for the purpose of this explanation. 'Alternate reality' is what we want to show to users of our app, or whatever we're building, so that they see the fancy shmancy version of things instead of the dull, old vanilla version
+
+
 
 [^declarative-vs-imperative]: [What is the difference between declarative and imperative paradigm in programming?](https://stackoverflow.com/questions/1784664/what-is-the-difference-between-declarative-and-imperative-paradigm-in-programmin)
