@@ -37,4 +37,6 @@ The exit animation is triggered when `isVisible` becomes `false`. Theoretically,
 
 Here's where `<AnimatePresence>` does something sneaky.
 
+## The magic sauce: React.useRef 
+
 Remember `React.useRef`? 
