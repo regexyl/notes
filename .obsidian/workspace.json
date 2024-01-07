@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "504ef2793d578a35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "How AnimatePresence in framer-motion works.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6bfcaa51b11d725d",
             "type": "leaf",
             "state": {
@@ -44,14 +32,6 @@
             }
           },
           {
-            "id": "b7faa1166458d434",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "e8d0f43effbcbe7b",
             "type": "leaf",
             "state": {
@@ -71,7 +51,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How AnimatePresence in framer-motion works.md",
+                "file": "Things to Learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How AnimatePresence in framer-motion works.md",
+                "file": "Things to Learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How AnimatePresence in framer-motion works.md"
+                "file": "Things to Learn.md"
               }
             }
           }
@@ -233,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How AnimatePresence in framer-motion works.md",
+                "file": "Things to Learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How AnimatePresence in framer-motion works.md",
+                "file": "Things to Learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -273,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How AnimatePresence in framer-motion works.md"
+                "file": "Things to Learn.md"
               }
             }
           }
@@ -297,19 +278,19 @@
       "templates:Insert template": false
     }
   },
-  "active": "504ef2793d578a35",
+  "active": "4cd473844370b9f0",
   "lastOpenFiles": [
+    "Some undersold tools for learning OSS.md",
+    "How AnimatePresence in framer-motion works.md",
     "Pasted image 20240107022517.png.crdownload",
     "How React Hot Loader came to be.md",
     "FramerMotionSlideShow.mov",
     "Early 2024 Timeline.md",
     "Gaming React with `postMessage` - and why it's a bad idea.md",
     "Pasted image 20240107024447.png",
-    "Some undersold tools for learning OSS.md",
     "Things to Learn.md",
     "2024 Goals.md",
     "`forEach` vs `for...of` in JS.md",
-    "How AnimatePresence in framer-motion works.md",
     "Pasted image 20240107023848.png",
     "Pasted image 20240107023831.png",
     "Pasted image 20240107022517.png",
