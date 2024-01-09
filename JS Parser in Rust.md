@@ -9,6 +9,8 @@ https://oxc-project.github.io/javascript-parser-in-rust/docs/overview
 # Lexer
 
 - Transforms source text into tokens
+- TODO [Read]([#tc39-inclusion](https://matrix.to/#/#tc39-inclusion:matrix.org)) the ECMAScript Language Specification
+
 
 # Parser
 
