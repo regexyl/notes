@@ -14,6 +14,9 @@ https://oxc-project.github.io/javascript-parser-in-rust/docs/overview
 	- The storing of a string in cache and assigning a unique ID to it. This allows for string comparisons to be O(1), and only allow one heap allocation per distinct ID or string.
 	- One library is [string-cache](https://crates.io/crates/string_cache)
 
+# Abstract Syntax Tree
+
+
 
 # Parser
 
