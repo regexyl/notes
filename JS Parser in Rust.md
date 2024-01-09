@@ -11,6 +11,8 @@ https://oxc-project.github.io/javascript-parser-in-rust/docs/overview
 - Transforms source text into tokens
 - #todo [Read]([#tc39-inclusion](https://matrix.to/#/#tc39-inclusion:matrix.org)) the ECMAScript Language Specification
 - String Interning
+	- The storing of a string in cache and assigning a unique ID to it. This allows for string comparisons to be O(1), and only allow one heap allocation per distinct ID or string.
+	- One library is [string-cache](https://crates.io/crates/string_cache)
 
 
 # Parser
