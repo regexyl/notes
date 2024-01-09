@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "8fbbe5ce74013f57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e8d0f43effbcbe7b",
             "type": "leaf",
             "state": {
@@ -52,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -64,6 +76,7 @@
       {
         "id": "0ed1b43dd8d858c4",
         "type": "tabs",
+        "dimension": 46.02385685884692,
         "children": [
           {
             "id": "259f055c7375a3b5",
@@ -81,7 +94,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "how `animate",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,6 +117,7 @@
       {
         "id": "0ed1b43dd8d858c4",
         "type": "tabs",
+        "dimension": 53.976143141153074,
         "children": [
           {
             "id": "259f055c7375a3b5",
@@ -142,7 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211.5
+    "width": 200
   },
   "right": {
     "id": "55f1db9486a4e6fb",
@@ -158,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Things to Learn.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Things to Learn.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Things to Learn.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -214,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Things to Learn.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Things to Learn.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Things to Learn.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -278,8 +292,10 @@
       "templates:Insert template": false
     }
   },
-  "active": "4cd473844370b9f0",
+  "active": "8fbbe5ce74013f57",
   "lastOpenFiles": [
+    "Things to Learn.md",
+    "Untitled.md",
     "Some undersold tools for learning OSS.md",
     "How AnimatePresence in framer-motion works.md",
     "Pasted image 20240107022517.png.crdownload",
@@ -288,7 +304,6 @@
     "Early 2024 Timeline.md",
     "Gaming React with `postMessage` - and why it's a bad idea.md",
     "Pasted image 20240107024447.png",
-    "Things to Learn.md",
     "2024 Goals.md",
     "`forEach` vs `for...of` in JS.md",
     "Pasted image 20240107023848.png",
