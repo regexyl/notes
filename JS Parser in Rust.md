@@ -21,3 +21,6 @@ https://oxc-project.github.io/javascript-parser-in-rust/docs/overview
 # Parser
 
 - Consumes the tokens - no need to worry about whitespaces and comments
+
+# OXC-specific
+
