@@ -28,3 +28,9 @@ https://oxc-project.github.io/javascript-parser-in-rust/docs/overview
 Bump allocation: The maintaining of a pointer to the next available memory location. A quick check needs to be done to see if there's enough capacity left in the chunk to allocate the object - if there is, the object is assigned to the memory and the pointer is updated by the object's size.
 
 A disadvantage of bump allocation is that there's no general way to deallocate individual objects. What usually happens is that all objects for a phase are deallocated together as a group.
+
+
+# Temporary Notes
+
+For enum values in config, reference:
+- triple_slash_reference.rs
