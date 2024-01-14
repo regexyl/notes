@@ -34,3 +34,6 @@ A disadvantage of bump allocation is that there's no general way to deallocate i
 
 For enum values in config, reference:
 - triple_slash_reference.rs
+
+#todo Why did [Boshen change the struct of AltText](https://github.com/oxc-project/oxc/pull/1783/files) from `pub struct AltText { ... }` to `pub struct AltText(Box<AltTextConfig>)`?
+
