@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Goals.md",
+                "file": "JS Parser in Rust.md",
                 "mode": "source",
                 "source": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Goals.md",
+                "file": "JS Parser in Rust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Goals.md",
+                "file": "JS Parser in Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Goals.md"
+                "file": "JS Parser in Rust.md"
               }
             }
           }
@@ -229,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Goals.md",
+                "file": "JS Parser in Rust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +246,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Goals.md",
+                "file": "JS Parser in Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -269,7 +269,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Goals.md"
+                "file": "JS Parser in Rust.md"
               }
             }
           }
@@ -295,6 +295,7 @@
   },
   "active": "8fbbe5ce74013f57",
   "lastOpenFiles": [
+    "2024 Goals.md",
     "JS Parser in Rust.md",
     "Note Syntax 2.md",
     "Things to Learn.md",
@@ -306,7 +307,6 @@
     "Early 2024 Timeline.md",
     "Gaming React with `postMessage` - and why it's a bad idea.md",
     "Pasted image 20240107024447.png",
-    "2024 Goals.md",
     "`forEach` vs `for...of` in JS.md",
     "Pasted image 20240107023848.png",
     "Pasted image 20240107023831.png",
