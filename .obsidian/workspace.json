@@ -44,11 +44,30 @@
             }
           },
           {
+            "id": "81ed8d80668bca11",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Data Structures and Algorithms.canvas",
+                "viewState": {
+                  "x": -225.84256169131598,
+                  "y": -508.3209037760364,
+                  "zoom": -0.22040909528732305
+                }
+              }
+            }
+          },
+          {
             "id": "e8d0f43effbcbe7b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "(dsa) Maximum Length of a Concatenated String with Unique Characters.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -64,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -173,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS Parser in Rust.md",
+                "file": "Data Structures and Algorithms.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS Parser in Rust.md",
+                "file": "Data Structures and Algorithms.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS Parser in Rust.md"
+                "file": "Data Structures and Algorithms.canvas"
               }
             }
           }
@@ -229,7 +248,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS Parser in Rust.md",
+                "file": "Data Structures and Algorithms.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +265,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS Parser in Rust.md",
+                "file": "Data Structures and Algorithms.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -269,7 +288,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS Parser in Rust.md"
+                "file": "Data Structures and Algorithms.canvas"
               }
             }
           }
@@ -293,10 +312,12 @@
       "templates:Insert template": false
     }
   },
-  "active": "8fbbe5ce74013f57",
+  "active": "81ed8d80668bca11",
   "lastOpenFiles": [
-    "2024 Goals.md",
+    "(dsa) Maximum Length of a Concatenated String with Unique Characters.md",
+    "Data Structures and Algorithms.canvas",
     "JS Parser in Rust.md",
+    "2024 Goals.md",
     "Note Syntax 2.md",
     "Things to Learn.md",
     "Some undersold tools for learning OSS.md",
@@ -325,7 +346,6 @@
     "Another file.md",
     "Hello from mobile.md",
     "Another note.md",
-    "IMG_4609.jpeg",
-    "Hello world.md"
+    "IMG_4609.jpeg"
   ]
 }
