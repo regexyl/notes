@@ -51,10 +51,22 @@
               "state": {
                 "file": "Data Structures and Algorithms.canvas",
                 "viewState": {
-                  "x": -225.84256169131598,
-                  "y": -508.3209037760364,
-                  "zoom": -0.22040909528732305
+                  "x": -238.0775975592402,
+                  "y": -581.5035447376562,
+                  "zoom": -1.132448033988476
                 }
+              }
+            }
+          },
+          {
+            "id": "f014708269629a5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(dsa) Rotate Array.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -83,7 +95,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -192,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structures and Algorithms.canvas",
+                "file": "(dsa) Rotate Array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structures and Algorithms.canvas",
+                "file": "(dsa) Rotate Array.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structures and Algorithms.canvas"
+                "file": "(dsa) Rotate Array.md"
               }
             }
           }
@@ -248,7 +260,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structures and Algorithms.canvas",
+                "file": "(dsa) Rotate Array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +277,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structures and Algorithms.canvas",
+                "file": "(dsa) Rotate Array.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -288,7 +300,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structures and Algorithms.canvas"
+                "file": "(dsa) Rotate Array.md"
               }
             }
           }
@@ -312,10 +324,11 @@
       "templates:Insert template": false
     }
   },
-  "active": "81ed8d80668bca11",
+  "active": "f014708269629a5e",
   "lastOpenFiles": [
-    "(dsa) Maximum Length of a Concatenated String with Unique Characters.md",
     "Data Structures and Algorithms.canvas",
+    "(dsa) Rotate Array.md",
+    "(dsa) Maximum Length of a Concatenated String with Unique Characters.md",
     "JS Parser in Rust.md",
     "2024 Goals.md",
     "Note Syntax 2.md",
@@ -345,7 +358,6 @@
     "Hello world!.md",
     "Another file.md",
     "Hello from mobile.md",
-    "Another note.md",
     "IMG_4609.jpeg"
   ]
 }
