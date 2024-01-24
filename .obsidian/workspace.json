@@ -56,6 +56,30 @@
             }
           },
           {
+            "id": "616a1a3d82a3d685",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA Practice Log.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0435ae1ce036cdfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA Practice Log.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f014708269629a5e",
             "type": "leaf",
             "state": {
@@ -92,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -122,7 +146,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#dfs",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -200,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_index.md",
+                "file": "DSA Practice Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_index.md",
+                "file": "DSA Practice Log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_index.md"
+                "file": "DSA Practice Log.md"
               }
             }
           }
@@ -256,7 +280,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_index.md",
+                "file": "DSA Practice Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,7 +297,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_index.md",
+                "file": "DSA Practice Log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -296,7 +320,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_index.md"
+                "file": "DSA Practice Log.md"
               }
             }
           }
@@ -320,12 +344,14 @@
       "templates:Insert template": false
     }
   },
-  "active": "81ed8d80668bca11",
+  "active": "0435ae1ce036cdfb",
   "lastOpenFiles": [
-    "index.md",
-    "_index.md",
     "Data Structures and Algorithms.canvas",
     "Untitled.canvas",
+    "Bit Manipulation.md",
+    "DSA Practice Log.md",
+    "_index.md",
+    "index.md",
     "(dsa) Rotate Array.md",
     "(dsa) Maximum Length of a Concatenated String with Unique Characters.md",
     "JS Parser in Rust.md",
@@ -353,8 +379,6 @@
     "Why Rust does not play well with linked lists.md",
     "Thoughts.md",
     "Note Syntax.md",
-    "Hello world!.md",
-    "Another file.md",
     "IMG_4609.jpeg"
   ]
 }
