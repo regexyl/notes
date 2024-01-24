@@ -322,8 +322,9 @@
   },
   "active": "81ed8d80668bca11",
   "lastOpenFiles": [
-    "Data Structures and Algorithms.canvas",
+    "index.md",
     "_index.md",
+    "Data Structures and Algorithms.canvas",
     "Untitled.canvas",
     "(dsa) Rotate Array.md",
     "(dsa) Maximum Length of a Concatenated String with Unique Characters.md",
@@ -350,7 +351,6 @@
     "Google Chrome Shortcuts 2.md",
     "Understanding library codebases in a better way.md",
     "Why Rust does not play well with linked lists.md",
-    "index.md",
     "Thoughts.md",
     "Note Syntax.md",
     "Hello world!.md",
