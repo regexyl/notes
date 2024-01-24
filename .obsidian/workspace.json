@@ -59,6 +59,21 @@
             }
           },
           {
+            "id": "d1db07494797a932",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
             "id": "f014708269629a5e",
             "type": "leaf",
             "state": {
@@ -95,7 +110,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -187,8 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.50247192382812,
-    "collapsed": true
+    "width": 203.50247192382812
   },
   "right": {
     "id": "55f1db9486a4e6fb",
@@ -204,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structures and Algorithms.canvas",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structures and Algorithms.canvas",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structures and Algorithms.canvas"
+                "file": "Untitled.canvas"
               }
             }
           }
@@ -260,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structures and Algorithms.canvas",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -277,7 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structures and Algorithms.canvas",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -300,7 +314,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structures and Algorithms.canvas"
+                "file": "Untitled.canvas"
               }
             }
           }
@@ -324,10 +338,12 @@
       "templates:Insert template": false
     }
   },
-  "active": "81ed8d80668bca11",
+  "active": "d1db07494797a932",
   "lastOpenFiles": [
-    "(dsa) Rotate Array.md",
+    "_index.md",
+    "Untitled.canvas",
     "Data Structures and Algorithms.canvas",
+    "(dsa) Rotate Array.md",
     "(dsa) Maximum Length of a Concatenated String with Unique Characters.md",
     "JS Parser in Rust.md",
     "2024 Goals.md",
@@ -357,7 +373,6 @@
     "Note Syntax.md",
     "Hello world!.md",
     "Another file.md",
-    "Hello from mobile.md",
     "IMG_4609.jpeg"
   ]
 }
