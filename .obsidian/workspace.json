@@ -47,21 +47,6 @@
             "id": "81ed8d80668bca11",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Data Structures and Algorithms.canvas",
-                "viewState": {
-                  "x": -176.9123088464123,
-                  "y": -581.5035447376562,
-                  "zoom": -1.132448033988476
-                }
-              }
-            }
-          },
-          {
-            "id": "d1db07494797a932",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "_index.md",
@@ -107,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -335,11 +320,11 @@
       "templates:Insert template": false
     }
   },
-  "active": "d1db07494797a932",
+  "active": "81ed8d80668bca11",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "_index.md",
     "Data Structures and Algorithms.canvas",
+    "_index.md",
+    "Untitled.canvas",
     "(dsa) Rotate Array.md",
     "(dsa) Maximum Length of a Concatenated String with Unique Characters.md",
     "JS Parser in Rust.md",
