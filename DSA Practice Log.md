@@ -12,7 +12,7 @@ Legend
 - [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) #dfs 🟠 (end: 12:53am)
 - [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) #bfs (end: 1:15am)
 - [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
-- strike 1! (no attempt on walls and gates) + strike 2! (could not do LCA of a binary tree) + strike 3! (Binary Tree Right Side View - kinda got the gist of a dfs pattern, but this problem was inherently bfs - plus, I didn't manage to solve it via DFS)
+- strike 1! (no attempt on walls and gates) + strike 2! (could not do LCA of a binary tree) + strike 3! (Binary Tree Right Side View - kinda got the gist of a dfs pattern, but this problem was inherently bfs - plus, I didn't manage to solve it via DFS) + strike 4 (Koko Eating Bananas :')
 - Summarize on canvas
 
 24 Jan 2024, Wed
