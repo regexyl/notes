@@ -5,6 +5,8 @@ Legend
 25 Jan 2024, Thu
 - [Permutation in String](https://leetcode.com/problems/permutation-in-string/) #sliding-window 🟢⚾️
 - [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) 🟠 (end: 9:42pm)
+- [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) 🟠 (end - kinda: 10:37pm) - Read a straightforward solution but I need to distill it further
+- Break
 
 24 Jan 2024, Wed
 - [Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) #dfs 🟠
