@@ -3,10 +3,11 @@ Legend
 🟢 Solved on first try (⚾️ knocked it out of the park!)
 
 26 Jan 2024, Fri
-1:30-6pm (break: )
+1:30-6pm (break: 4-4:30pm)
+- [Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation/) 🟠 (end: 2:18pm - had a 20 minute break with Shannon/Xinai)
+- Coffee break: start: 2:27pm
 - [Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)
 - [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
-- [Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation/)
 - [Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/)
 
 25 Jan 2024, Thu
