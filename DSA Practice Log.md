@@ -7,7 +7,9 @@ Legend
 - [Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation/) 🟠 (end: 2:18pm - had a 20 minute break with Shannon/Xinai)
 - Coffee break: start: 2:27pm, end: 2:41pm
 - [Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/) 🟢 (end: 2:51pm)
-- [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
+- Break (call with Chinmito): 4:10pm
+- [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) 🟢 (end: 4:30pm)
+	- Medium question, but seems like an easy
 - [Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/)
 
 25 Jan 2024, Thu

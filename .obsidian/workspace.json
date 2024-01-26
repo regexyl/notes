@@ -109,14 +109,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "`forEach` vs `for...of` in JS.md",
+                "file": "DSA Practice Log.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -344,7 +344,7 @@
       "templates:Insert template": false
     }
   },
-  "active": "616a1a3d82a3d685",
+  "active": "4ad50135afdd6dbf",
   "lastOpenFiles": [
     "`forEach` vs `for...of` in JS.md",
     "DSA Practice Log.md",
