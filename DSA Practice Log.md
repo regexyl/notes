@@ -2,11 +2,18 @@ Legend
 🟠 Needed help, try again
 🟢 Solved on first try (⚾️ knocked it out of the park!)
 
+26 Jan 2024, Fri
+1:30-6pm (break: )
+- [Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)
+- [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
+- [Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation/)
+- [Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/)
+
 25 Jan 2024, Thu
 - [Permutation in String](https://leetcode.com/problems/permutation-in-string/) #sliding-window 🟢⚾️
 - [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) 🟠 (end: 9:42pm)
 - [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) 🟠 (end - kinda: 10:37pm) - Read a straightforward solution but I need to distill it further
-	- #todo Revise [solution](https://leetcode.com/problems/minimum-window-substring/submissions/899091668/)
+	- TODO: Revise [solution](https://leetcode.com/problems/minimum-window-substring/submissions/899091668/)
 - Break (end 12:14am - had dinner and showered)
 - [Walls and Gates](https://leetcode.com/problems/walls-and-gates/) #bfs 🟠 (end: 12:22am)
 - [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) #dfs 🟠 (end: 12:53am)
