@@ -5,8 +5,8 @@ Legend
 26 Jan 2024, Fri
 1:30-6pm (break: 4-4:30pm)
 - [Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation/) 🟠 (end: 2:18pm - had a 20 minute break with Shannon/Xinai)
-- Coffee break: start: 2:27pm
-- [Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)
+- Coffee break: start: 2:27pm, end: 2:41pm
+- [Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/) 🟢 (end: 2:51pm)
 - [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
 - [Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/)
 

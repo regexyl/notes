@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -344,13 +344,14 @@
       "templates:Insert template": false
     }
   },
-  "active": "0435ae1ce036cdfb",
+  "active": "616a1a3d82a3d685",
   "lastOpenFiles": [
+    "`forEach` vs `for...of` in JS.md",
+    "DSA Practice Log.md",
     "Pasted image 20240124191337.png",
     "Data Structures and Algorithms.canvas",
     "Untitled.canvas",
     "Bit Manipulation.md",
-    "DSA Practice Log.md",
     "_index.md",
     "index.md",
     "(dsa) Rotate Array.md",
@@ -367,7 +368,6 @@
     "Early 2024 Timeline.md",
     "Gaming React with `postMessage` - and why it's a bad idea.md",
     "Pasted image 20240107024447.png",
-    "`forEach` vs `for...of` in JS.md",
     "Pasted image 20240107023848.png",
     "Pasted image 20240107023831.png",
     "Pasted image 20240107022517.png",
