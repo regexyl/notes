@@ -9,8 +9,17 @@ Legend
 - [Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/) 🟢 (end: 2:51pm)
 - Break (call with Chinmito): 4:10pm
 - [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) 🟢 (end: 4:30pm)
-	- Medium question, but seems like an easy
-- [Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/)
+	- Easy medium
+- [Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/) 🟢 (end: 4:41pm)
+	- Easy medium
+- [Buildings With an Ocean View](https://leetcode.com/problems/buildings-with-an-ocean-view/) (end: 4:46pm)
+	- Easy medium
+- Break (start: 4:54pm, end 5:11pm)
+- [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/) 🟠 (end: 5:12pm)
+- Break (end: 5:29pm)
+- [Stickers to Spell Word](https://leetcode.com/problems/stickers-to-spell-word/) 🟠
+- TODO: Revise [solution](https://leetcode.com/problems/minimum-window-substring/submissions/899091668/)
+- Walking exercise + shower
 
 25 Jan 2024, Thu
 - [Permutation in String](https://leetcode.com/problems/permutation-in-string/) #sliding-window 🟢⚾️
