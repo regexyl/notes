@@ -4,6 +4,24 @@
     "type": "split",
     "children": [
       {
+        "id": "25f03b3c986a1d9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8d0f43effbcbe7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA Practice Log.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "7d516ca871999759",
         "type": "tabs",
         "children": [
@@ -44,31 +62,22 @@
             }
           },
           {
-            "id": "e8d0f43effbcbe7b",
+            "id": "2aed8618fa813854",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "(dsa) Maximum Length of a Concatenated String with Unique Characters.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ad50135afdd6dbf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA Practice Log.md",
-                "mode": "source",
-                "source": false
+                "file": "Data Structures and Algorithms.canvas",
+                "viewState": {
+                  "x": -2423.5473078001396,
+                  "y": -423.0770286901066,
+                  "zoom": -0.7509449907378896
+                }
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -160,7 +169,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.50312423706055
+    "width": 282.50312423706055,
+    "collapsed": true
   },
   "right": {
     "id": "55f1db9486a4e6fb",
@@ -296,23 +306,25 @@
       "templates:Insert template": false
     }
   },
-  "active": "4ad50135afdd6dbf",
+  "active": "e8d0f43effbcbe7b",
   "lastOpenFiles": [
-    "`forEach` vs `for...of` in JS.md",
-    "DSA Practice Log.md",
-    "Pasted image 20240124191337.png",
     "Data Structures and Algorithms.canvas",
+    "(dsa) Rotate Array.md",
+    "Things to Learn.md",
+    "Some undersold tools for learning OSS.md",
+    "DSA Practice Log.md",
+    "Sliding Window Structure.md",
+    "(dsa) Maximum Length of a Concatenated String with Unique Characters.md",
+    "Untitled 1.canvas",
+    "`forEach` vs `for...of` in JS.md",
+    "Pasted image 20240124191337.png",
     "Untitled.canvas",
     "Bit Manipulation.md",
     "_index.md",
     "index.md",
-    "(dsa) Rotate Array.md",
-    "(dsa) Maximum Length of a Concatenated String with Unique Characters.md",
     "JS Parser in Rust.md",
     "2024 Goals.md",
     "Note Syntax 2.md",
-    "Things to Learn.md",
-    "Some undersold tools for learning OSS.md",
     "How AnimatePresence in framer-motion works.md",
     "Pasted image 20240107022517.png.crdownload",
     "How React Hot Loader came to be.md",
@@ -331,7 +343,6 @@
     "Understanding library codebases in a better way.md",
     "Why Rust does not play well with linked lists.md",
     "Thoughts.md",
-    "Note Syntax.md",
     "IMG_4609.jpeg"
   ]
 }

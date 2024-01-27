@@ -5,7 +5,9 @@ Legend
 27 Jan 2024, Sat
 Break for 10 min at every hour (1, 2, 3pm)
 - [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) 🟠
-- [Carried forward from 25 Jan] TODO: Revise [solution](https://leetcode.com/problems/minimum-window-substring/submissions/899091668/)
+- [Carried forward from 25 Jan] DONE: Revise [solution](https://leetcode.com/problems/minimum-window-substring/submissions/899091668/) 🟠
+- Break (end: 1:27pm)
+- [Stickers to Spell Word](https://leetcode.com/problems/stickers-to-spell-word/)
 
 26 Jan 2024, Fri
 1:30-6pm (break: 4-4:30pm)
