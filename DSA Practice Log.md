@@ -21,6 +21,13 @@ Break for 10 min at every hour (1, 2, 3pm)
 - [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) 🟢⏳
 - [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/) 🟢
 - Break (start: 3:20pm)
+- [Edit Distance](https://leetcode.com/problems/edit-distance/)
+- [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+- [Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/)
+- [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+- [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
+- [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
+- Break (start: 7:15pm)
 
 26 Jan 2024, Fri
 1:30-6pm (break: 4-4:30pm)
