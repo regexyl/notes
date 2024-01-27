@@ -2,6 +2,11 @@ Legend
 🟠 Needed help, try again
 🟢 Solved on first try (⚾️ knocked it out of the park!)
 
+27 Jan 2024, Sat
+Break for 10 min at every hour (1, 2, 3pm)
+- [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) 🟠
+- [Carried forward from 25 Jan] TODO: Revise [solution](https://leetcode.com/problems/minimum-window-substring/submissions/899091668/)
+
 26 Jan 2024, Fri
 1:30-6pm (break: 4-4:30pm)
 - [Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation/) 🟠 (end: 2:18pm - had a 20 minute break with Shannon/Xinai)
@@ -18,7 +23,6 @@ Legend
 - [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/) 🟠 (end: 5:12pm)
 - Break (end: 5:29pm)
 - [Stickers to Spell Word](https://leetcode.com/problems/stickers-to-spell-word/) 🟠
-- TODO: Revise [solution](https://leetcode.com/problems/minimum-window-substring/submissions/899091668/)
 - Walking exercise + shower
 
 25 Jan 2024, Thu

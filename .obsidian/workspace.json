@@ -32,54 +32,6 @@
             }
           },
           {
-            "id": "8fbbe5ce74013f57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JS Parser in Rust.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "81ed8d80668bca11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "616a1a3d82a3d685",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA Practice Log.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0435ae1ce036cdfb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA Practice Log.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f014708269629a5e",
             "type": "leaf",
             "state": {
@@ -116,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -208,7 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.50247192382812
+    "width": 282.50312423706055
   },
   "right": {
     "id": "55f1db9486a4e6fb",
