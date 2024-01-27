@@ -23,9 +23,10 @@ Break for 10 min at every hour (1, 2, 3pm)
 - Break (start: 3:20pm)
 - [Edit Distance](https://leetcode.com/problems/edit-distance/) 🟠
 - [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) 🟠
+- [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) 🟢⚾️
 - [Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/)
-- [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
-- [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
+- [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) 🟠
+- [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) 🟠
 - [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
 - Break (start: 8:15pm)
 

@@ -1,12 +1,13 @@
 {
 	"nodes":[
-		{"id":"dd7110e9ae4b2e94","x":-2960,"y":-980,"width":1800,"height":1140,"type":"group","label":"Sliding Window"},
-		{"id":"7b691ae685db5464","type":"file","file":"(dsa) Maximum Length of a Concatenated String with Unique Characters.md","x":-780,"y":-980,"width":700,"height":1320,"color":"2"},
+		{"id":"0c0fdd624578dbce","x":-2840,"y":480,"width":1880,"height":1360,"type":"group","label":"Binary Search"},
+		{"id":"dd7110e9ae4b2e94","type":"group","x":-2960,"y":-980,"width":1800,"height":1140,"label":"Sliding Window"},
 		{"id":"e2d17e906f49949b","type":"text","text":"O(2^n)","x":80,"y":-1340,"width":109,"height":50,"color":"2"},
 		{"id":"2b314a7d551fc237","type":"text","text":"Questions that blow my mind","x":-840,"y":-2480,"width":320,"height":50},
 		{"id":"1f76109f2dfd1967","type":"text","text":"Rotate Array: Cyclic Replacements (Apprach #3)","x":-1079,"y":-2320,"width":479,"height":62},
 		{"id":"dc122b8c49596725","type":"file","file":"Bit Manipulation.md","x":-1560,"y":-1740,"width":400,"height":400},
-		{"id":"824fd26c632554d6","x":-2840,"y":-880,"width":480,"height":360,"type":"file","file":"Sliding Window Structure.md"}
+		{"id":"824fd26c632554d6","type":"file","file":"Sliding Window Structure.md","x":-2840,"y":-880,"width":480,"height":360},
+		{"id":"7b691ae685db5464","type":"file","file":"(dsa) Maximum Length of a Concatenated String with Unique Characters.md","x":-780,"y":-980,"width":700,"height":1320,"color":"2"}
 	],
 	"edges":[
 		{"id":"2031164dcae11f14","fromNode":"e2d17e906f49949b","fromSide":"bottom","toNode":"7b691ae685db5464","toSide":"top"},
