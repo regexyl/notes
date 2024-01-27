@@ -4,6 +4,10 @@ Legend
 🦠 Solved, but not on first try + had no help
 🟢 Solved on first try (⚾️ knocked it out of the park!)
 
+🔁 Repeat attempt
+⏳ Not the best time complexity
+🏃‍♀️ Not fast enough
+
 27 Jan 2024, Sat
 Break for 10 min at every hour (1, 2, 3pm)
 - [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) 🟠
@@ -12,9 +16,9 @@ Break for 10 min at every hour (1, 2, 3pm)
 - [Stickers to Spell Word](https://leetcode.com/problems/stickers-to-spell-word/) - Revised solution 🔴
 - Break (end: 2:20pm)
 - Any 3 of the 4 questions:
-- [Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation/) 🦠
-- [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)
-- [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)
+- [Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation/) 🦠🔁
+- [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/) 🟢🔁
+- [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) 🟢⏳
 - [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/) 🟢
 - Break (start: 3:20pm)
 
