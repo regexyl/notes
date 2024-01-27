@@ -1,5 +1,7 @@
 Legend
+🔴 Pretty hard, it'll be awesome if I could come up with the solution on the spot
 🟠 Needed help, try again
+🦠 Solved, but not on first try + had no help
 🟢 Solved on first try (⚾️ knocked it out of the park!)
 
 27 Jan 2024, Sat
@@ -7,7 +9,14 @@ Break for 10 min at every hour (1, 2, 3pm)
 - [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) 🟠
 - [Carried forward from 25 Jan] DONE: Revise [solution](https://leetcode.com/problems/minimum-window-substring/submissions/899091668/) 🟠
 - Break (end: 1:27pm)
-- [Stickers to Spell Word](https://leetcode.com/problems/stickers-to-spell-word/)
+- [Stickers to Spell Word](https://leetcode.com/problems/stickers-to-spell-word/) - Revised solution 🔴
+- Break (end: 2:20pm)
+- Any 3 of the 4 questions:
+- [Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation/) 🦠
+- [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)
+- [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)
+- [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/) 🟢
+- Break (start: 3:20pm)
 
 26 Jan 2024, Fri
 1:30-6pm (break: 4-4:30pm)
