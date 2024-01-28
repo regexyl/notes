@@ -11,6 +11,14 @@ Legend
 28 Jan 2024, Sun
 1st hour
 - [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) 🟠
+- [Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/) 🟠
+- [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) 🟢⚾️
+- [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) 🟠
+	- I remembered the initial 2-pass trick, but that was also what hindered me from solving - I was obsessed on thinking of ways to make it work with just two for loops (1 forward, and 1 backward), but forgot about the `multiplier` variable that should be used.
+2nd hour
+- [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) 🟢⚾️
+- [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
+- [Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/)
 
 27 Jan 2024, Sat
 Break for 10 min at every hour (1, 2, 3pm)
@@ -28,10 +36,8 @@ Break for 10 min at every hour (1, 2, 3pm)
 - [Edit Distance](https://leetcode.com/problems/edit-distance/) 🟠
 - [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) 🟠
 - [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) 🟢⚾️
-- [Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/)
 - [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) 🟠
 - [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) 🟠
-- [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
 - Break (start: 8:15pm)
 
 26 Jan 2024, Fri

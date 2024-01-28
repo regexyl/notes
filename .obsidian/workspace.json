@@ -56,9 +56,9 @@
                   "state": {
                     "file": "Data Structures and Algorithms.canvas",
                     "viewState": {
-                      "x": -3488.4183038331535,
-                      "y": 523.7458546081266,
-                      "zoom": -1.2437323797245827
+                      "x": -4795.525195647025,
+                      "y": 346.8106818765802,
+                      "zoom": -1.2865859034160778
                     }
                   }
                 }
@@ -106,8 +106,21 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "3dec8bd965ccdc7a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Quickselect.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "horizontal"
@@ -219,7 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA Practice Log.md",
+                "file": "Quickselect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +249,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA Practice Log.md",
+                "file": "Quickselect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,7 +272,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA Practice Log.md"
+                "file": "Quickselect.md"
               }
             }
           }
@@ -275,7 +288,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA Practice Log.md",
+                "file": "Quickselect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -292,7 +305,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA Practice Log.md",
+                "file": "Quickselect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -315,7 +328,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA Practice Log.md"
+                "file": "Quickselect.md"
               }
             }
           }
@@ -339,14 +352,17 @@
       "templates:Insert template": false
     }
   },
-  "active": "e8d0f43effbcbe7b",
+  "active": "3dec8bd965ccdc7a",
   "lastOpenFiles": [
+    "Charles Hoare.md",
+    "Quickselect.md",
     "Data Structures and Algorithms.canvas",
+    "DSA Practice Log.md",
+    "Heap Time Complexity.md",
     "Pasted image 20240128134045.png",
     "Pasted image 20240128134022.png",
     "Binary Search Templates.md",
     "Prefix Sum.md",
-    "DSA Practice Log.md",
     "(dsa) Rotate Array.md",
     "Things to Learn.md",
     "Some undersold tools for learning OSS.md",
@@ -375,9 +391,6 @@
     "Global Talent Visa Preparation.md",
     "Things to Do.md",
     "separate page.md",
-    "Google Chrome Shortcuts.md",
-    "Google Chrome Shortcuts 2.md",
-    "Understanding library codebases in a better way.md",
     "IMG_4609.jpeg"
   ]
 }
