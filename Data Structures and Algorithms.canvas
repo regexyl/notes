@@ -5,8 +5,6 @@
 		{"id":"323bad9c5fd3a413","x":-4200,"y":480,"width":968,"height":1400,"type":"group","label":"Prefix Sum"},
 		{"id":"50b16502fa6eb390","x":-5560,"y":-40,"width":838,"height":831,"type":"group","label":"Sorting"},
 		{"id":"00026fa003b32538","x":-4272,"y":-640,"width":872,"height":545,"type":"group","label":"Heap"},
-		{"id":"2b314a7d551fc237","type":"text","text":"Questions that blow my mind","x":-840,"y":-2480,"width":320,"height":50},
-		{"id":"1f76109f2dfd1967","type":"text","text":"Rotate Array: Cyclic Replacements (Apprach #3)","x":-1079,"y":-2320,"width":479,"height":62},
 		{"id":"00c6530d9b94fa7a","type":"file","file":"Binary Search Templates.md","x":-2728,"y":601,"width":1048,"height":2679},
 		{"id":"7b691ae685db5464","type":"file","file":"(dsa) Maximum Length of a Concatenated String with Unique Characters.md","x":-780,"y":-980,"width":700,"height":1320,"color":"2"},
 		{"id":"824fd26c632554d6","type":"file","file":"Sliding Window Structure.md","x":-2840,"y":-880,"width":480,"height":360},
@@ -14,10 +12,15 @@
 		{"id":"dc122b8c49596725","type":"file","file":"Bit Manipulation.md","x":-1560,"y":-1740,"width":400,"height":400},
 		{"id":"f738ee24baf8b643","x":-4120,"y":547,"width":720,"height":1253,"type":"file","file":"Prefix Sum.md"},
 		{"id":"d108d98d11fa224a","x":-4204,"y":-560,"width":444,"height":400,"type":"file","file":"Heap Time Complexity.md"},
-		{"id":"093696e6299fc349","x":-5480,"y":40,"width":482,"height":473,"type":"file","file":"Quickselect.md"}
+		{"id":"9960cd9b72a04140","x":-5480,"y":40,"width":600,"height":600,"type":"file","file":"Quicksort.md"},
+		{"id":"093696e6299fc349","x":-6360,"y":-820,"width":540,"height":660,"type":"file","file":"Quickselect.md"},
+		{"id":"1f76109f2dfd1967","type":"text","text":"Rotate Array: Cyclic Replacements (Apprach #3)","x":-1079,"y":-2320,"width":479,"height":62},
+		{"id":"2b314a7d551fc237","type":"text","text":"Questions that blow my mind","x":-840,"y":-2480,"width":320,"height":50}
 	],
 	"edges":[
 		{"id":"2031164dcae11f14","fromNode":"e2d17e906f49949b","fromSide":"bottom","toNode":"7b691ae685db5464","toSide":"top"},
-		{"id":"dcbcfdbfc8590bc9","fromNode":"2b314a7d551fc237","fromSide":"bottom","toNode":"1f76109f2dfd1967","toSide":"top"}
+		{"id":"dcbcfdbfc8590bc9","fromNode":"2b314a7d551fc237","fromSide":"bottom","toNode":"1f76109f2dfd1967","toSide":"top"},
+		{"id":"77789989559fc0e2","fromNode":"9960cd9b72a04140","fromSide":"left","toNode":"093696e6299fc349","toSide":"bottom"},
+		{"id":"59eaab171e6f4b67","fromNode":"00026fa003b32538","fromSide":"top","toNode":"093696e6299fc349","toSide":"top","label":"An alternative to using a heap\nwith better time complexity (i.e. `O(n)` vs O(log(n))`)"}
 	]
 }

@@ -1,1 +1,1 @@
-Inventor of Quicksort and [[Quickselect]]
+Inventor of [[Quicksort]] and [[Quickselect]]

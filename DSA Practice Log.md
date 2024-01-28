@@ -17,6 +17,7 @@ Legend
 	- I remembered the initial 2-pass trick, but that was also what hindered me from solving - I was obsessed on thinking of ways to make it work with just two for loops (1 forward, and 1 backward), but forgot about the `multiplier` variable that should be used.
 2nd hour
 - [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) 🟢⚾️
+- Read up about [[Quicksort]]
 - [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
 - [Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/)
 
