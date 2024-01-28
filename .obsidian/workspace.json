@@ -10,7 +10,7 @@
           {
             "id": "7d516ca871999759",
             "type": "tabs",
-            "dimension": 61.25769569041337,
+            "dimension": 53.03430079155673,
             "children": [
               {
                 "id": "6bfcaa51b11d725d",
@@ -56,9 +56,9 @@
                   "state": {
                     "file": "Data Structures and Algorithms.canvas",
                     "viewState": {
-                      "x": -2065.6121577650556,
-                      "y": 801.1949539998874,
-                      "zoom": -1.0181681398785636
+                      "x": -3488.4183038331535,
+                      "y": 523.7458546081266,
+                      "zoom": -1.2437323797245827
                     }
                   }
                 }
@@ -74,14 +74,26 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "e48f2a30628c6043",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Prefix Sum.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
             ],
-            "currentTab": 4
+            "currentTab": 3
           },
           {
             "id": "37c505ddf96cb8fc",
             "type": "tabs",
-            "dimension": 38.742304309586636,
+            "dimension": 46.965699208443276,
             "children": [
               {
                 "id": "e8d0f43effbcbe7b",
@@ -329,9 +341,12 @@
   },
   "active": "e8d0f43effbcbe7b",
   "lastOpenFiles": [
-    "Binary Search Templates.md",
-    "DSA Practice Log.md",
     "Data Structures and Algorithms.canvas",
+    "Pasted image 20240128134045.png",
+    "Pasted image 20240128134022.png",
+    "Binary Search Templates.md",
+    "Prefix Sum.md",
+    "DSA Practice Log.md",
     "(dsa) Rotate Array.md",
     "Things to Learn.md",
     "Some undersold tools for learning OSS.md",
@@ -363,7 +378,6 @@
     "Google Chrome Shortcuts.md",
     "Google Chrome Shortcuts 2.md",
     "Understanding library codebases in a better way.md",
-    "Why Rust does not play well with linked lists.md",
     "IMG_4609.jpeg"
   ]
 }

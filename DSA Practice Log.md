@@ -8,6 +8,10 @@ Legend
 ⏳ Not the best time complexity
 🏃‍♀️ Not fast enough
 
+28 Jan 2024, Sun
+1st hour
+- [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) 🟠
+
 27 Jan 2024, Sat
 Break for 10 min at every hour (1, 2, 3pm)
 - [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) 🟠
