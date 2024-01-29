@@ -35,15 +35,16 @@ Goal format:
 # Concrete goals
 
 ## Non-habitual
-1. Publish Chain Reaction game by 31 March 2024.
-2. Contribute to OSS with 10 PRs by 30 April 2024.
+1. Get into top 50 on a Leetcode contest by 31 March 2024.
+2. Publish Chain Reaction game by 31 March 2024.
+3. Contribute to OSS with 10 PRs by 30 April 2024.
 	1. 3 out of the above 10 PRs have to be done in Rust 🦀
-3. Get the Global Talent Visa (Exceptional Promise) by 31 August 2024.
+4. Get the Global Talent Visa (Exceptional Promise) by 31 August 2024.
 	- Endorsement application: Takes 8 weeks (~2 months)
 	- Visa application: up to 3 weeks
 	- Total: Takes up to 4 months
-4. Move to London by 30 September 2024.
-5. Get an Amex credit card by 31 December 2024.
+5. Move to London by 30 September 2024.
+6. Get an Amex credit card by 31 December 2024.
 
 ## Habitual
 

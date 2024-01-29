@@ -8,6 +8,9 @@ Legend
 ⏳ Not the best time complexity
 🏃‍♀️ Not fast enough
 
+29 Jan 2024, Mon
+- [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/) 🟢⚾️
+
 28 Jan 2024, Sun
 1st hour
 - [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) 🟠

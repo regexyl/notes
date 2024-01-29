@@ -101,7 +101,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "DSA Practice Log.md",
+                    "file": "2024 Goals.md",
                     "mode": "source",
                     "source": false
                   }
@@ -130,8 +130,21 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "570a209e6ea3a69c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "DSA Practice Log.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 3
           }
         ],
         "direction": "horizontal"
@@ -363,13 +376,14 @@
       "templates:Insert template": false
     }
   },
-  "active": "e8d0f43effbcbe7b",
+  "active": "570a209e6ea3a69c",
   "lastOpenFiles": [
+    "2024 Goals.md",
+    "DSA Practice Log.md",
     "Data Structures and Algorithms.canvas",
     "Quicksort.md",
     "Quickselect.md",
     "Charles Hoare.md",
-    "DSA Practice Log.md",
     "Heap Time Complexity.md",
     "Pasted image 20240128134045.png",
     "Pasted image 20240128134022.png",
@@ -388,7 +402,6 @@
     "_index.md",
     "index.md",
     "JS Parser in Rust.md",
-    "2024 Goals.md",
     "Note Syntax 2.md",
     "How AnimatePresence in framer-motion works.md",
     "Pasted image 20240107022517.png.crdownload",
