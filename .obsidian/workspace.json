@@ -268,7 +268,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA Practice Log.md",
+                "file": "Binary Search Templates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -285,7 +285,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA Practice Log.md",
+                "file": "Binary Search Templates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -308,7 +308,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA Practice Log.md"
+                "file": "Binary Search Templates.md"
               }
             }
           }
@@ -324,7 +324,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA Practice Log.md",
+                "file": "Binary Search Templates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -341,7 +341,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA Practice Log.md",
+                "file": "Binary Search Templates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -364,7 +364,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA Practice Log.md"
+                "file": "Binary Search Templates.md"
               }
             }
           }
@@ -388,10 +388,10 @@
       "templates:Insert template": false
     }
   },
-  "active": "570a209e6ea3a69c",
+  "active": "195306ed853308db",
   "lastOpenFiles": [
-    "Binary Search Templates.md",
     "DSA Practice Log.md",
+    "Binary Search Templates.md",
     "Python Cheatsheet.md",
     "(dsa) Median of Two Sorted Arrays.md",
     "Data Structures and Algorithms.canvas",

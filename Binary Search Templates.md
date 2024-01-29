@@ -98,3 +98,7 @@ def minEatingSpeed(self, piles, h):
 
 Other examples #todo 
 - https://leetcode.com/problems/time-based-key-value-store/
+
+#### Modification: with `break`
+
+https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/submissions/1160081424/
