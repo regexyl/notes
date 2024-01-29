@@ -88,7 +88,7 @@
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 4
           },
           {
             "id": "37c505ddf96cb8fc",
@@ -390,10 +390,11 @@
   },
   "active": "570a209e6ea3a69c",
   "lastOpenFiles": [
-    "(dsa) Median of Two Sorted Arrays.md",
+    "Binary Search Templates.md",
     "DSA Practice Log.md",
-    "Data Structures and Algorithms.canvas",
     "Python Cheatsheet.md",
+    "(dsa) Median of Two Sorted Arrays.md",
+    "Data Structures and Algorithms.canvas",
     "2024 Goals.md",
     "Quicksort.md",
     "Quickselect.md",
@@ -401,7 +402,6 @@
     "Heap Time Complexity.md",
     "Pasted image 20240128134045.png",
     "Pasted image 20240128134022.png",
-    "Binary Search Templates.md",
     "Prefix Sum.md",
     "(dsa) Rotate Array.md",
     "Things to Learn.md",

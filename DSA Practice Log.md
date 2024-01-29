@@ -16,6 +16,7 @@ Legend
 - [[(dsa) Median of Two Sorted Arrays]] 🔴
 	- #todo Come back to this later
 - [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) 🟢
+- [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) 🟠
 
 28 Jan 2024, Sun
 1st hour

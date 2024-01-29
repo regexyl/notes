@@ -4,7 +4,7 @@
 ### Returns result straight within `while` loop
 
 #### Characteristics
-- Use `<=` for while loop
+- Use `<` or `<=` for while loop
 - Result **is** derived from *within* the binary search, i.e. if no result is returned, target cannot be found
 	- Unlike other types of binary searches where result is defined from `lo` or `hi` - refer to #todo <insert new template here?>
 
@@ -52,6 +52,28 @@ def search(self, nums: List[int], target: int) -> int:
     return -1
 ```
 
+##### Example from [Binary Search](https://leetcode.com/problems/binary-search/)
+
+**How do I know I should use `<=` here?**
+E.g. if `nums = [5]`, I will not be able to return a result through the `while` loop if `while lo < hi`, since `lo = 0, hi = 0` in this case
+
+```python
+def search(self, nums: List[int], target: int) -> int:
+	lo, hi = 0, len(nums) - 1
+
+	while lo <= hi:
+		mid = (lo + hi) // 2
+
+		if nums[mid] == target:
+			return mid
+		elif nums[mid] < target:
+			lo = mid + 1
+		else:
+			hi = mid - 1
+	
+	return -1
+```
+
 ### Returns result outside of `while` loop (via `lo` or `hi`)
 #### Characteristics
 
@@ -73,3 +95,6 @@ def minEatingSpeed(self, piles, h):
     
     return hi
 ```
+
+Other examples #todo 
+- https://leetcode.com/problems/time-based-key-value-store/
