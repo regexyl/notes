@@ -56,9 +56,9 @@
                   "state": {
                     "file": "Data Structures and Algorithms.canvas",
                     "viewState": {
-                      "x": -366,
-                      "y": 586,
-                      "zoom": 0
+                      "x": -3698.116803511222,
+                      "y": 542.8813066404016,
+                      "zoom": -1.365013932387034
                     }
                   }
                 }
@@ -189,7 +189,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#dfs",
+                "query": "tag:#binary-search",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -390,9 +390,10 @@
   },
   "active": "570a209e6ea3a69c",
   "lastOpenFiles": [
+    "(dsa) Median of Two Sorted Arrays.md",
+    "DSA Practice Log.md",
     "Data Structures and Algorithms.canvas",
     "Python Cheatsheet.md",
-    "DSA Practice Log.md",
     "2024 Goals.md",
     "Quicksort.md",
     "Quickselect.md",

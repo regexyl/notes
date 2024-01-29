@@ -13,6 +13,9 @@ Legend
 - [Find Beautiful Indices in the Given Array I](https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i/)  #array 🟠
 - [Maximum Number That Sum of the Prices Is Less Than or Equal to K](https://leetcode.com/problems/maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k/) 🔴
 	- #todo Come back to this later
+- [[(dsa) Median of Two Sorted Arrays]] 🔴
+	- #todo Come back to this later
+- [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) 🟢
 
 28 Jan 2024, Sun
 1st hour
