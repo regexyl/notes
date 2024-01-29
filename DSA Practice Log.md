@@ -10,6 +10,8 @@ Legend
 
 29 Jan 2024, Mon
 - [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/) 🟢⚾️
+- [Find Beautiful Indices in the Given Array I](https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i/)  #array 🟠
+- 
 
 28 Jan 2024, Sun
 1st hour
