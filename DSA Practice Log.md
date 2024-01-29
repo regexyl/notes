@@ -11,7 +11,8 @@ Legend
 29 Jan 2024, Mon
 - [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/) 🟢⚾️
 - [Find Beautiful Indices in the Given Array I](https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i/)  #array 🟠
-- 
+- [Maximum Number That Sum of the Prices Is Less Than or Equal to K](https://leetcode.com/problems/maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k/) 🔴
+	- #todo Come back to this later
 
 28 Jan 2024, Sun
 1st hour

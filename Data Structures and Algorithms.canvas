@@ -15,7 +15,8 @@
 		{"id":"9960cd9b72a04140","x":-5480,"y":40,"width":600,"height":600,"type":"file","file":"Quicksort.md"},
 		{"id":"093696e6299fc349","x":-6360,"y":-820,"width":540,"height":660,"type":"file","file":"Quickselect.md"},
 		{"id":"1f76109f2dfd1967","type":"text","text":"Rotate Array: Cyclic Replacements (Apprach #3)","x":-1079,"y":-2320,"width":479,"height":62},
-		{"id":"2b314a7d551fc237","type":"text","text":"Questions that blow my mind","x":-840,"y":-2480,"width":320,"height":50}
+		{"id":"2b314a7d551fc237","type":"text","text":"Questions that blow my mind","x":-840,"y":-2480,"width":320,"height":50},
+		{"id":"233bdc706191c921","x":-640,"y":500,"width":660,"height":400,"type":"file","file":"Python Cheatsheet.md"}
 	],
 	"edges":[
 		{"id":"2031164dcae11f14","fromNode":"e2d17e906f49949b","fromSide":"bottom","toNode":"7b691ae685db5464","toSide":"top"},
