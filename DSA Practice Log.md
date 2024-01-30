@@ -28,9 +28,8 @@ Today's structure
 	- [x] [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self) 🟢⚾️
 		- Used `SortedList` and knocked this out of the park!
 		- #todo Warning: there's a possibility `sortedcontainers` might be disallowed in an interview. [[Segment Tree]] and [[Binary Indexed Tree]] might come in handy here. See the [Leetcode editorial](https://leetcode.com/problems/count-of-smaller-numbers-after-self/editorial/).
-- [ ] Figure out how to sort an array by two distinct keys
-	- [ ] [H-Index II](https://leetcode.com/problems/h-index-ii)
-	- [ ] [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap)
+	- [x] [H-Index II](https://leetcode.com/problems/h-index-ii) 🟠
+	- [x] [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap) 🟠
 	- [ ] [Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set)
 - [ ] Solidify DP concepts (obliterate 16 different DP questions)
       7 hard, 9 medium, 1 easy
