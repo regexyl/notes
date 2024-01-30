@@ -24,58 +24,19 @@
                 }
               },
               {
-                "id": "4cd473844370b9f0",
+                "id": "0e82114dfbfae17e",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Things to Learn.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "f014708269629a5e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "(dsa) Rotate Array.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "2aed8618fa813854",
-                "type": "leaf",
-                "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "Data Structures and Algorithms.canvas",
-                    "viewState": {
-                      "x": -4779.673829539202,
-                      "y": 2266.2388864872732,
-                      "zoom": 0.22125178972879966
-                    }
-                  }
-                }
-              },
-              {
-                "id": "c3a68b60b9d4960d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Loss of Generality.md",
+                    "file": "Time Complexity.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
             ],
-            "currentTab": 4
+            "currentTab": 1
           },
           {
             "id": "57fd6e3f6b5fa69b",
@@ -254,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Loss of Generality.md",
+                "file": "DSA Practice Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Loss of Generality.md",
+                "file": "DSA Practice Log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Loss of Generality.md"
+                "file": "DSA Practice Log.md"
               }
             }
           }
@@ -310,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Loss of Generality.md",
+                "file": "DSA Practice Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -327,7 +288,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Loss of Generality.md",
+                "file": "DSA Practice Log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -350,7 +311,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Loss of Generality.md"
+                "file": "DSA Practice Log.md"
               }
             }
           }
@@ -374,11 +335,16 @@
       "templates:Insert template": false
     }
   },
-  "active": "c3a68b60b9d4960d",
+  "active": "570a209e6ea3a69c",
   "lastOpenFiles": [
-    "Data Structures and Algorithms.canvas",
-    "Loss of Generality.md",
+    "Time Complexity.md",
+    "Some undersold tools for learning OSS.md",
     "DSA Practice Log.md",
+    "Things to Learn.md",
+    "Loss of Generality.md",
+    "(dsa) Rotate Array.md",
+    "(math) ℤ.md",
+    "Data Structures and Algorithms.canvas",
     "Binary Search Templates.md",
     "Prefix Sum.md",
     "Python Cheatsheet.md",
@@ -390,9 +356,6 @@
     "Heap Time Complexity.md",
     "Pasted image 20240128134045.png",
     "Pasted image 20240128134022.png",
-    "(dsa) Rotate Array.md",
-    "Things to Learn.md",
-    "Some undersold tools for learning OSS.md",
     "Sliding Window Structure.md",
     "(dsa) Maximum Length of a Concatenated String with Unique Characters.md",
     "Untitled 1.canvas",
@@ -408,7 +371,6 @@
     "Pasted image 20240107022517.png.crdownload",
     "How React Hot Loader came to be.md",
     "FramerMotionSlideShow.mov",
-    "Early 2024 Timeline.md",
     "Pasted image 20240107024447.png",
     "Pasted image 20240107023848.png",
     "Pasted image 20240107023831.png",
