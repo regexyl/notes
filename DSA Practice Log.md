@@ -25,7 +25,9 @@ Today's structure
 	- [x] [Heaters](https://leetcode.com/problems/heaters) 🟠
 		- It was hard for me to see this as a binary search question on first glance. I see it now!
 		- Though like Russian dolls, it can be solved in a faster time complexity without binary search.
-	- [ ] [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self) 🟢⚾️
+	- [x] [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self) 🟢⚾️
+		- Used `SortedList` and knocked this out of the park!
+		- #todo Warning: there's a possibility `sortedcontainers` might be disallowed in an interview. [[Segment Tree]] and [[Binary Indexed Tree]] might come in handy here. See the [Leetcode editorial](https://leetcode.com/problems/count-of-smaller-numbers-after-self/editorial/).
 - [ ] Figure out how to sort an array by two distinct keys
 	- [ ] [H-Index II](https://leetcode.com/problems/h-index-ii)
 	- [ ] [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap)
