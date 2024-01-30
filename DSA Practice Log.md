@@ -19,14 +19,20 @@ Today's structure
 	- [x] [Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value) 🦠 (5 min 56 sec)
 	- [x] [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) 🟠
 		- The solution with the best time complexity here is a non-binary search solution.
-	- [ ] [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)
-	- [ ] [Heaters](https://leetcode.com/problems/heaters)
-	- [ ] [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self)
+	- [x] [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/) 🔴
+		- This is slightly hard - I think I'm not able to tell apart DP problems from a binary search solution in this case
+		- You could technically do a 0/1 knapsack solution here
+	- [x] [Heaters](https://leetcode.com/problems/heaters) 🟠
+		- It was hard for me to see this as a binary search question on first glance. I see it now!
+		- Though like Russian dolls, it can be solved in a faster time complexity without binary search.
+	- [ ] [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self) 🟢⚾️
+- [ ] Figure out how to sort an array by two distinct keys
 	- [ ] [H-Index II](https://leetcode.com/problems/h-index-ii)
 	- [ ] [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap)
 	- [ ] [Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set)
 - [ ] Solidify DP concepts (obliterate 16 different DP questions)
       7 hard, 9 medium, 1 easy
+	- [ ] If there's time, watch the MIT video on [Dynamic Programming](https://www.youtube.com/watch?v=krZI60lKPek&t=7s)
 	- [ ] [Perfect Squares](https://leetcode.com/problems/perfect-squares)
 	- [ ] [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv)
 	- [ ] [Shopping Offers](https://leetcode.com/problems/shopping-offers)
@@ -44,6 +50,7 @@ Today's structure
 	- [ ] [Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii)
 	- [ ] [Strange Printer](https://leetcode.com/problems/strange-printer)
 	- [ ] [Kth Ancestor of a Tree Node](https://leetcode.com/problems/kth-ancestor-of-a-tree-node)
+	- [ ]
 - [ ] Go back to the binary search questions, starting with Find Minimum in Rotated Sorted Array - check out the editorial discussion on the different ways to solve it (some comments in the discussion mention that the editorial's solution isn't the most straightforward)
 - [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)

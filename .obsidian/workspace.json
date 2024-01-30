@@ -29,7 +29,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Time Complexity.md",
+                    "file": "Binary Search Templates.md",
                     "mode": "source",
                     "source": false
                   }
@@ -337,15 +337,15 @@
   },
   "active": "570a209e6ea3a69c",
   "lastOpenFiles": [
+    "Binary Search Templates.md",
     "Time Complexity.md",
-    "Some undersold tools for learning OSS.md",
     "DSA Practice Log.md",
+    "Some undersold tools for learning OSS.md",
     "Things to Learn.md",
     "Loss of Generality.md",
     "(dsa) Rotate Array.md",
     "(math) ℤ.md",
     "Data Structures and Algorithms.canvas",
-    "Binary Search Templates.md",
     "Prefix Sum.md",
     "Python Cheatsheet.md",
     "(dsa) Median of Two Sorted Arrays.md",
