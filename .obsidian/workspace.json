@@ -55,15 +55,27 @@
                   "state": {
                     "file": "Data Structures and Algorithms.canvas",
                     "viewState": {
-                      "x": -6056.031562230106,
-                      "y": -259.7633905168562,
-                      "zoom": -0.7221529030799865
+                      "x": -4779.673829539202,
+                      "y": 2266.2388864872732,
+                      "zoom": 0.22125178972879966
                     }
+                  }
+                }
+              },
+              {
+                "id": "c3a68b60b9d4960d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Loss of Generality.md",
+                    "mode": "source",
+                    "source": false
                   }
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 4
           },
           {
             "id": "57fd6e3f6b5fa69b",
@@ -242,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA Practice Log.md",
+                "file": "Loss of Generality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +271,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA Practice Log.md",
+                "file": "Loss of Generality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,7 +294,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA Practice Log.md"
+                "file": "Loss of Generality.md"
               }
             }
           }
@@ -298,7 +310,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA Practice Log.md",
+                "file": "Loss of Generality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -315,7 +327,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA Practice Log.md",
+                "file": "Loss of Generality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -338,7 +350,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA Practice Log.md"
+                "file": "Loss of Generality.md"
               }
             }
           }
@@ -362,12 +374,13 @@
       "templates:Insert template": false
     }
   },
-  "active": "570a209e6ea3a69c",
+  "active": "c3a68b60b9d4960d",
   "lastOpenFiles": [
     "Data Structures and Algorithms.canvas",
+    "Loss of Generality.md",
+    "DSA Practice Log.md",
     "Binary Search Templates.md",
     "Prefix Sum.md",
-    "DSA Practice Log.md",
     "Python Cheatsheet.md",
     "(dsa) Median of Two Sorted Arrays.md",
     "2024 Goals.md",
@@ -396,7 +409,6 @@
     "How React Hot Loader came to be.md",
     "FramerMotionSlideShow.mov",
     "Early 2024 Timeline.md",
-    "Gaming React with `postMessage` - and why it's a bad idea.md",
     "Pasted image 20240107024447.png",
     "Pasted image 20240107023848.png",
     "Pasted image 20240107023831.png",

@@ -14,9 +14,10 @@ Today's structure
 - Stop after every 4 questions, if you don't know the answer to it, write down your best solution and explain what you can't figure out before moving on
 
 - [ ] Solidify binary search concepts (obliterate 8 different binary search questions - outside of the ones attempted already -> 2 easy, 3 medium, 3 hard)
-	- [ ] Read this binary search [guide](https://leetcode.com/discuss/study-guide/1233854/a-noobs-guide-to-the-binary-search-algorithm)
-	- [ ] [Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value)|
-	- [ ] [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii)
+	- [x] Read this binary search [guide](https://leetcode.com/discuss/study-guide/1233854/a-noobs-guide-to-the-binary-search-algorithm)
+		- [x] I think the guide was pretty okay, it highlighted the reasons why solutions to specific questions were coded that way, but it still lacked a little pattern-grouping information for me. But the best way to learn about this is to not get spoon-fed :)
+	- [x] [Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value) 🦠 (5 min 56 sec)
+	- [ ] [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) 🟠
 	- [ ] [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)
 	- [ ] [Heaters](https://leetcode.com/problems/heaters)
 	- [ ] [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self)
