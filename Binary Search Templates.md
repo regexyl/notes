@@ -1,6 +1,10 @@
 
 ```table-of-contents
 ```
+
+**edit**
+I realized "returning inside", or "returning outside" shouldn't be categories that classify binary search questions into these different sections. The same question can have two different ways of a binary search algorithm being written, so the same question can be solved with either returning from the inside or outside the while loop.
+
 ### Returns result straight within `while` loop
 
 #### Characteristics

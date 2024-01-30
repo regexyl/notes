@@ -8,6 +8,44 @@ Legend
 ⏳ Not the best time complexity
 🏃‍♀️ Not fast enough
 
+30 Jan 2024, Tues
+
+Today's structure
+- Stop after every 4 questions, if you don't know the answer to it, write down your best solution and explain what you can't figure out before moving on
+
+- [ ] Solidify binary search concepts (obliterate 8 different binary search questions - outside of the ones attempted already -> 2 easy, 3 medium, 3 hard)
+	- [ ] Read this binary search [guide](https://leetcode.com/discuss/study-guide/1233854/a-noobs-guide-to-the-binary-search-algorithm)
+	- [ ] [Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value)|
+	- [ ] [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii)
+	- [ ] [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)
+	- [ ] [Heaters](https://leetcode.com/problems/heaters)
+	- [ ] [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self)
+	- [ ] [H-Index II](https://leetcode.com/problems/h-index-ii)
+	- [ ] [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap)
+	- [ ] [Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set)
+- [ ] Solidify DP concepts (obliterate 16 different DP questions)
+      7 hard, 9 medium, 1 easy
+	- [ ] [Perfect Squares](https://leetcode.com/problems/perfect-squares)
+	- [ ] [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv)
+	- [ ] [Shopping Offers](https://leetcode.com/problems/shopping-offers)
+	- [ ] [Super Ugly Number](https://leetcode.com/problems/super-ugly-number)
+	- [ ] [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii)
+	- [ ] [Paint Fence](https://leetcode.com/problems/paint-fence)
+	- [ ] [Divisor Game](https://leetcode.com/problems/divisor-game)
+	- [ ] [Paint House II](https://leetcode.com/problems/paint-house-ii)
+	- [ ] [Encode String with Shortest Length](https://leetcode.com/problems/encode-string-with-shortest-length)
+	- [ ] [Unique Substrings in Wraparound String](https://leetcode.com/problems/unique-substrings-in-wraparound-string)
+	- [ ] [Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square)
+	- [ ] [Find the Derangement of An Array](https://leetcode.com/problems/find-the-derangement-of-an-array)
+	- [ ] [Coin Path](https://leetcode.com/problems/coin-path)
+	- [ ] [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence)
+	- [ ] [Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii)
+	- [ ] [Strange Printer](https://leetcode.com/problems/strange-printer)
+	- [ ] [Kth Ancestor of a Tree Node](https://leetcode.com/problems/kth-ancestor-of-a-tree-node)
+- [ ] Go back to the binary search questions, starting with Find Minimum in Rotated Sorted Array - check out the editorial discussion on the different ways to solve it (some comments in the discussion mention that the editorial's solution isn't the most straightforward)
+- [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+- [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+
 29 Jan 2024, Mon
 - [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/) 🟢⚾️
 - [Find Beautiful Indices in the Given Array I](https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i/)  #array 🟠
