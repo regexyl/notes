@@ -10,10 +10,11 @@ Legend
 
 31 Jan 2024, Wed
 - [ ] Learn about [[Segment Tree]] and [[Binary Indexed Tree]]
-	- [ ] Finish reading this [hackerearth article on a segtree](https://www.hackerearth.com/practice/notes/segment-tree-and-lazy-propagation/)
+	- [x] Finish reading this [hackerearth article on a segtree](https://www.hackerearth.com/practice/notes/segment-tree-and-lazy-propagation/)
 	- [ ] Solve 2 questions for Segment Tree
 		- [ ] [Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/)
 		- [ ] [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)
+		- [ ] [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable]
 	- [ ] Solve 2 questions for Binary Indexed Tree
 - [ ] Revise yesterday's binary search questions + attempt 4 more questions
 	- [ ] [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)

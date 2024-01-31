@@ -241,7 +241,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Segment Tree.md",
+                "file": "DSA Practice Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -258,7 +258,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Segment Tree.md",
+                "file": "DSA Practice Log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -281,7 +281,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Segment Tree.md"
+                "file": "DSA Practice Log.md"
               }
             }
           }
@@ -297,7 +297,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Segment Tree.md",
+                "file": "DSA Practice Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -314,7 +314,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Segment Tree.md",
+                "file": "DSA Practice Log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -337,7 +337,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Segment Tree.md"
+                "file": "DSA Practice Log.md"
               }
             }
           }
@@ -361,11 +361,11 @@
       "templates:Insert template": false
     }
   },
-  "active": "0d84a08cf8f07998",
+  "active": "570a209e6ea3a69c",
   "lastOpenFiles": [
+    "Segment Tree.md",
     "DSA Practice Log.md",
     "Binary Indexed Tree.md",
-    "Segment Tree.md",
     "Binary Search Templates.md",
     "Time Complexity.md",
     "Some undersold tools for learning OSS.md",
