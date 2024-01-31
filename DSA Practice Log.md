@@ -8,29 +8,18 @@ Legend
 ⏳ Not the best time complexity
 🏃‍♀️ Not fast enough
 
-30 Jan 2024, Tues
-
-Today's structure
-- Stop after every 4 questions, if you don't know the answer to it, write down your best solution and explain what you can't figure out before moving on
-
-- [ ] Solidify binary search concepts (obliterate 8 different binary search questions - outside of the ones attempted already -> 2 easy, 3 medium, 3 hard) - <mark style="background: #FFB86CA6;">**hopefully by 5pm?**</mark>
-	- [x] Read this binary search [guide](https://leetcode.com/discuss/study-guide/1233854/a-noobs-guide-to-the-binary-search-algorithm)
-		- [x] I think the guide was pretty okay, it highlighted the reasons why solutions to specific questions were coded that way, but it still lacked a little pattern-grouping information for me. But the best way to learn about this is to not get spoon-fed :)
-	- [x] [Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value) 🦠 (5 min 56 sec)
-	- [x] [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) 🟠
-		- The solution with the best time complexity here is a non-binary search solution.
-	- [x] [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/) 🔴
-		- This is slightly hard - I think I'm not able to tell apart DP problems from a binary search solution in this case
-		- You could technically do a 0/1 knapsack solution here
-	- [x] [Heaters](https://leetcode.com/problems/heaters) 🟠
-		- It was hard for me to see this as a binary search question on first glance. I see it now!
-		- Though like Russian dolls, it can be solved in a faster time complexity without binary search.
-	- [x] [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self) 🟢⚾️
-		- Used `SortedList` and knocked this out of the park!
-		- #todo Warning: there's a possibility `sortedcontainers` might be disallowed in an interview. [[Segment Tree]] and [[Binary Indexed Tree]] might come in handy here. See the [Leetcode editorial](https://leetcode.com/problems/count-of-smaller-numbers-after-self/editorial/).
-	- [x] [H-Index II](https://leetcode.com/problems/h-index-ii) 🟠
-	- [x] [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap) 🟠
-	- [ ] [Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set)
+31 Jan 2024, Wed
+- [ ] Learn about [[Segment Tree]] and [[Binary Indexed Tree]]
+	- [ ] Finish reading this [hackerearth article on a segtree](https://www.hackerearth.com/practice/notes/segment-tree-and-lazy-propagation/)
+	- [ ] Solve 2 questions for Segment Tree
+		- [ ] [Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/)
+		- [ ] [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)
+	- [ ] Solve 2 questions for Binary Indexed Tree
+- [ ] Revise yesterday's binary search questions + attempt 4 more questions
+	- [ ] [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)
+	- [ ] [Split Message Based on Limit](https://leetcode.com/problems/split-message-based-on-limit/)
+	- [ ] [Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/)
+	- [ ] [Minimum Number of Operations to Make Array Continuous](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/)
 - [ ] Solidify DP concepts (obliterate 16 different DP questions)
       7 hard, 9 medium, 1 easy
 	- [ ] If there's time, watch the MIT video on [Dynamic Programming](https://www.youtube.com/watch?v=krZI60lKPek&t=7s)
@@ -55,6 +44,30 @@ Today's structure
 - [ ] Go back to the binary search questions, starting with Find Minimum in Rotated Sorted Array - check out the editorial discussion on the different ways to solve it (some comments in the discussion mention that the editorial's solution isn't the most straightforward)
 - [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+
+30 Jan 2024, Tues
+
+Today's structure
+- Stop after every 4 questions, if you don't know the answer to it, write down your best solution and explain what you can't figure out before moving on
+
+- [ ] Solidify binary search concepts (obliterate 8 different binary search questions - outside of the ones attempted already -> 2 easy, 3 medium, 3 hard) - <mark style="background: #FFB86CA6;">**hopefully by 5pm?**</mark>
+	- [x] Read this binary search [guide](https://leetcode.com/discuss/study-guide/1233854/a-noobs-guide-to-the-binary-search-algorithm)
+		- [x] I think the guide was pretty okay, it highlighted the reasons why solutions to specific questions were coded that way, but it still lacked a little pattern-grouping information for me. But the best way to learn about this is to not get spoon-fed :)
+	- [x] [Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value) 🦠 (5 min 56 sec)
+	- [x] [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) 🟠
+		- The solution with the best time complexity here is a non-binary search solution.
+	- [x] [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/) 🔴
+		- This is slightly hard - I think I'm not able to tell apart DP problems from a binary search solution in this case
+		- You could technically do a 0/1 knapsack solution here
+	- [x] [Heaters](https://leetcode.com/problems/heaters) 🟠
+		- It was hard for me to see this as a binary search question on first glance. I see it now!
+		- Though like Russian dolls, it can be solved in a faster time complexity without binary search.
+	- [x] [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self) 🟢⚾️
+		- Used `SortedList` and knocked this out of the park!
+		- #todo Warning: there's a possibility `sortedcontainers` might be disallowed in an interview. [[Segment Tree]] and [[Binary Indexed Tree]] might come in handy here. See the [Leetcode editorial](https://leetcode.com/problems/count-of-smaller-numbers-after-self/editorial/).
+	- [x] [H-Index II](https://leetcode.com/problems/h-index-ii) 🟠
+	- [x] [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap) 🟠
+	- [ ] [Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set)
 
 29 Jan 2024, Mon
 - [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/) 🟢⚾️

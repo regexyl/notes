@@ -10,6 +10,7 @@
           {
             "id": "7d516ca871999759",
             "type": "tabs",
+            "dimension": 51.889534883720934,
             "children": [
               {
                 "id": "6bfcaa51b11d725d",
@@ -34,13 +35,38 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "570a209e6ea3a69c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "DSA Practice Log.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "53c033d4a20b9104",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Binary Indexed Tree.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           },
           {
             "id": "57fd6e3f6b5fa69b",
             "type": "tabs",
+            "dimension": 48.11046511627907,
             "children": [
               {
                 "id": "e8d0f43effbcbe7b",
@@ -91,18 +117,6 @@
                 }
               },
               {
-                "id": "570a209e6ea3a69c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "DSA Practice Log.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
                 "id": "0d84a08cf8f07998",
                 "type": "leaf",
                 "state": {
@@ -115,7 +129,7 @@
                 }
               }
             ],
-            "currentTab": 5
+            "currentTab": 4
           }
         ],
         "direction": "vertical"
@@ -350,6 +364,7 @@
   "active": "0d84a08cf8f07998",
   "lastOpenFiles": [
     "DSA Practice Log.md",
+    "Binary Indexed Tree.md",
     "Segment Tree.md",
     "Binary Search Templates.md",
     "Time Complexity.md",
@@ -380,7 +395,6 @@
     "index.md",
     "JS Parser in Rust.md",
     "Note Syntax 2.md",
-    "How AnimatePresence in framer-motion works.md",
     "Pasted image 20240107022517.png.crdownload",
     "FramerMotionSlideShow.mov",
     "Pasted image 20240107024447.png",
