@@ -49,6 +49,18 @@
                 }
               },
               {
+                "id": "5ed8056ec32cdba3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "YC Startups.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
                 "id": "53c033d4a20b9104",
                 "type": "leaf",
                 "state": {
@@ -61,7 +73,7 @@
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 3
           },
           {
             "id": "57fd6e3f6b5fa69b",
@@ -229,7 +241,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bit Manipulation.md",
+                "file": "YC Startups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +258,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bit Manipulation.md",
+                "file": "YC Startups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -269,7 +281,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bit Manipulation.md"
+                "file": "YC Startups.md"
               }
             }
           }
@@ -285,7 +297,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bit Manipulation.md",
+                "file": "YC Startups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -302,7 +314,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bit Manipulation.md",
+                "file": "YC Startups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -325,7 +337,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bit Manipulation.md"
+                "file": "YC Startups.md"
               }
             }
           }
@@ -349,13 +361,15 @@
       "templates:Insert template": false
     }
   },
-  "active": "3f1fe1cd76d95890",
+  "active": "5ed8056ec32cdba3",
   "lastOpenFiles": [
+    "DSA Practice Log.md",
+    "YC Startups.md",
+    "Bit Manipulation.md",
     "Python Cheatsheet.md",
     "Bitwise.md",
     "Untitled 2.canvas",
     "Segment Tree.md",
-    "DSA Practice Log.md",
     "Binary Indexed Tree.md",
     "Binary Search Templates.md",
     "Time Complexity.md",
@@ -380,7 +394,6 @@
     "`forEach` vs `for...of` in JS.md",
     "Pasted image 20240124191337.png",
     "Untitled.canvas",
-    "Bit Manipulation.md",
     "_index.md",
     "index.md",
     "Pasted image 20240107022517.png.crdownload",
