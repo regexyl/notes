@@ -110,26 +110,14 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Python Cheatsheet.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "0d84a08cf8f07998",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Segment Tree.md",
+                    "file": "Bit Manipulation.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
             ],
-            "currentTab": 4
+            "currentTab": 3
           }
         ],
         "direction": "vertical"
@@ -162,7 +150,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#binary-search",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -241,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA Practice Log.md",
+                "file": "Bit Manipulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -258,7 +246,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA Practice Log.md",
+                "file": "Bit Manipulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -281,7 +269,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA Practice Log.md"
+                "file": "Bit Manipulation.md"
               }
             }
           }
@@ -297,7 +285,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA Practice Log.md",
+                "file": "Bit Manipulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -314,7 +302,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA Practice Log.md",
+                "file": "Bit Manipulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -337,7 +325,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA Practice Log.md"
+                "file": "Bit Manipulation.md"
               }
             }
           }
@@ -361,8 +349,11 @@
       "templates:Insert template": false
     }
   },
-  "active": "570a209e6ea3a69c",
+  "active": "3f1fe1cd76d95890",
   "lastOpenFiles": [
+    "Python Cheatsheet.md",
+    "Bitwise.md",
+    "Untitled 2.canvas",
     "Segment Tree.md",
     "DSA Practice Log.md",
     "Binary Indexed Tree.md",
@@ -375,7 +366,6 @@
     "(math) ℤ.md",
     "Data Structures and Algorithms.canvas",
     "Prefix Sum.md",
-    "Python Cheatsheet.md",
     "(dsa) Median of Two Sorted Arrays.md",
     "2024 Goals.md",
     "Quicksort.md",
@@ -393,8 +383,6 @@
     "Bit Manipulation.md",
     "_index.md",
     "index.md",
-    "JS Parser in Rust.md",
-    "Note Syntax 2.md",
     "Pasted image 20240107022517.png.crdownload",
     "FramerMotionSlideShow.mov",
     "Pasted image 20240107024447.png",
