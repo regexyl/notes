@@ -8,7 +8,7 @@ Legend
 ⏳ Not the best time complexity
 🏃‍♀️ Not fast enough
 
-31 Jan 2024, Wed
+31 Jan 2024, Wed + 1 Feb 2024, Thu
 - [ ] Learn about [[Segment Tree]] and [[Binary Indexed Tree]]
 	- [x] Finish reading this [hackerearth article on a segtree](https://www.hackerearth.com/practice/notes/segment-tree-and-lazy-propagation/)
 	- [ ] Solve 2 questions for Segment Tree
@@ -45,6 +45,7 @@ Legend
 - [ ] Go back to the binary search questions, starting with Find Minimum in Rotated Sorted Array - check out the editorial discussion on the different ways to solve it (some comments in the discussion mention that the editorial's solution isn't the most straightforward)
 - [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+- [x] POTD: [Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/)
 
 30 Jan 2024, Tues
 
