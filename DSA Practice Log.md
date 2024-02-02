@@ -8,6 +8,9 @@ Legend
 ⏳ Not the best time complexity
 🏃‍♀️ Not fast enough
 
+2 Feb 2024, Fri
+- [ ] [Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid) #binary-search #queue 🟠
+
 31 Jan 2024, Wed + 1 Feb 2024, Thu
 - [ ] Learn about [[Segment Tree]] and [[Binary Indexed Tree]]
 	- [x] Finish reading this [hackerearth article on a segtree](https://www.hackerearth.com/practice/notes/segment-tree-and-lazy-propagation/)
