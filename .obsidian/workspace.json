@@ -105,6 +105,18 @@
                 }
               },
               {
+                "id": "b214176fd576abec",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Untitled.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
                 "id": "757f04060e06ed6c",
                 "type": "leaf",
                 "state": {
@@ -141,7 +153,7 @@
                 }
               }
             ],
-            "currentTab": 4
+            "currentTab": 2
           }
         ],
         "direction": "vertical"
@@ -253,7 +265,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A Lightweight Instrument-Agnostic Model for Polyphonic Note Transcription and Multipitch Estimation.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -270,7 +282,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A Lightweight Instrument-Agnostic Model for Polyphonic Note Transcription and Multipitch Estimation.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -293,7 +305,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A Lightweight Instrument-Agnostic Model for Polyphonic Note Transcription and Multipitch Estimation.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -309,7 +321,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A Lightweight Instrument-Agnostic Model for Polyphonic Note Transcription and Multipitch Estimation.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -326,7 +338,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A Lightweight Instrument-Agnostic Model for Polyphonic Note Transcription and Multipitch Estimation.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -349,7 +361,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A Lightweight Instrument-Agnostic Model for Polyphonic Note Transcription and Multipitch Estimation.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -373,8 +385,11 @@
       "templates:Insert template": false
     }
   },
-  "active": "f17efacf047e4876",
+  "active": "b214176fd576abec",
   "lastOpenFiles": [
+    "Quickselect.md",
+    "Untitled.md",
+    "Quicksort.md",
     "Bit Manipulation.md",
     "A Lightweight Instrument-Agnostic Model for Polyphonic Note Transcription and Multipitch Estimation.md",
     "YC Startups.md",
@@ -395,8 +410,6 @@
     "Prefix Sum.md",
     "(dsa) Median of Two Sorted Arrays.md",
     "2024 Goals.md",
-    "Quicksort.md",
-    "Quickselect.md",
     "Charles Hoare.md",
     "Heap Time Complexity.md",
     "Pasted image 20240128134045.png",
@@ -407,7 +420,6 @@
     "`forEach` vs `for...of` in JS.md",
     "Pasted image 20240124191337.png",
     "Untitled.canvas",
-    "_index.md",
     "Pasted image 20240107022517.png.crdownload",
     "FramerMotionSlideShow.mov",
     "Pasted image 20240107024447.png",
