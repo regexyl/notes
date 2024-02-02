@@ -9,7 +9,10 @@ Legend
 🏃‍♀️ Not fast enough
 
 2 Feb 2024, Fri
-- [ ] [Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid) #binary-search #queue 🟠
+- [x] [Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid) #binary-search #queue 🟠
+- [x] [Count the Number of Houses at a Certain Distance I](https://leetcode.com/problems/count-the-number-of-houses-at-a-certain-distance-i/) 🟠
+- [x] [Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) 🦠
+- [x] [Clone Graph](https://leetcode.com/problems/clone-graph/) 🦠
 
 31 Jan 2024, Wed + 1 Feb 2024, Thu
 - [ ] Learn about [[Segment Tree]] and [[Binary Indexed Tree]]

@@ -73,7 +73,7 @@
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 2
           },
           {
             "id": "57fd6e3f6b5fa69b",
@@ -265,7 +265,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python Cheatsheet.md",
+                "file": "DSA Practice Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -282,7 +282,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python Cheatsheet.md",
+                "file": "DSA Practice Log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -305,7 +305,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python Cheatsheet.md"
+                "file": "DSA Practice Log.md"
               }
             }
           }
@@ -321,7 +321,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python Cheatsheet.md",
+                "file": "DSA Practice Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -338,7 +338,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python Cheatsheet.md",
+                "file": "DSA Practice Log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -361,7 +361,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python Cheatsheet.md"
+                "file": "DSA Practice Log.md"
               }
             }
           }
@@ -385,8 +385,9 @@
       "templates:Insert template": false
     }
   },
-  "active": "b214176fd576abec",
+  "active": "570a209e6ea3a69c",
   "lastOpenFiles": [
+    "Python Cheatsheet.md",
     "DSA Practice Log.md",
     "Untitled.md",
     "Quickselect.md",
@@ -394,7 +395,6 @@
     "Bit Manipulation.md",
     "A Lightweight Instrument-Agnostic Model for Polyphonic Note Transcription and Multipitch Estimation.md",
     "YC Startups.md",
-    "Python Cheatsheet.md",
     "Bitwise.md",
     "Untitled 2.canvas",
     "Segment Tree.md",
