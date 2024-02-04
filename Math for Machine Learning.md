@@ -1,0 +1,4 @@
+- Calculus
+	- Basics: Deriavatives, series and integrals
+	- Partial derivatives, surface integrals
+	- Not that necessary: differential equations (unless you're specifically working on "physics informed neural network)

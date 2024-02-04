@@ -49,6 +49,18 @@
                 }
               },
               {
+                "id": "2fb96a5fd0acb616",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Math for Machine Learning.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
                 "id": "5ed8056ec32cdba3",
                 "type": "leaf",
                 "state": {
@@ -73,7 +85,7 @@
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 3
           },
           {
             "id": "57fd6e3f6b5fa69b",
@@ -265,7 +277,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA Practice Log.md",
+                "file": "Math for Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -282,7 +294,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA Practice Log.md",
+                "file": "Math for Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -305,7 +317,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA Practice Log.md"
+                "file": "Math for Machine Learning.md"
               }
             }
           }
@@ -321,7 +333,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA Practice Log.md",
+                "file": "Math for Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -338,7 +350,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA Practice Log.md",
+                "file": "Math for Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -361,7 +373,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA Practice Log.md"
+                "file": "Math for Machine Learning.md"
               }
             }
           }
@@ -385,10 +397,11 @@
       "templates:Insert template": false
     }
   },
-  "active": "570a209e6ea3a69c",
+  "active": "2fb96a5fd0acb616",
   "lastOpenFiles": [
-    "Python Cheatsheet.md",
     "DSA Practice Log.md",
+    "Math for Machine Learning.md",
+    "Python Cheatsheet.md",
     "Untitled.md",
     "Quickselect.md",
     "Quicksort.md",
@@ -417,7 +430,6 @@
     "Sliding Window Structure.md",
     "(dsa) Maximum Length of a Concatenated String with Unique Characters.md",
     "Untitled 1.canvas",
-    "`forEach` vs `for...of` in JS.md",
     "Pasted image 20240124191337.png",
     "Untitled.canvas",
     "Pasted image 20240107022517.png.crdownload",
