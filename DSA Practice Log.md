@@ -23,7 +23,7 @@ Legend
 		- [ ] [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable]
 	- [ ] Solve 2 questions for Binary Indexed Tree
 - [ ] Revise yesterday's binary search questions + attempt 4 more questions
-	- [ ] [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)
+	- [x] [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) 🟠
 	- [ ] [Split Message Based on Limit](https://leetcode.com/problems/split-message-based-on-limit/)
 	- [ ] [Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/)
 	- [ ] [Minimum Number of Operations to Make Array Continuous](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/)
