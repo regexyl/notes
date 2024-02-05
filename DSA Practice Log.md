@@ -8,24 +8,12 @@ Legend
 ⏳ Not the best time complexity
 🏃‍♀️ Not fast enough
 
-2 Feb 2024, Fri
-- [x] [Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid) #binary-search #queue 🟠
-- [x] [Count the Number of Houses at a Certain Distance I](https://leetcode.com/problems/count-the-number-of-houses-at-a-certain-distance-i/) 🟠
-- [x] [Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) 🦠
-- [x] [Clone Graph](https://leetcode.com/problems/clone-graph/) 🦠
-
-31 Jan 2024, Wed + 1 Feb 2024, Thu
-- [ ] Learn about [[Segment Tree]] and [[Binary Indexed Tree]]
-	- [x] Finish reading this [hackerearth article on a segtree](https://www.hackerearth.com/practice/notes/segment-tree-and-lazy-propagation/)
-	- [x] Solve 2 questions for Segment Tree
-		- [x] [Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/)
-		- [x] [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)
-	- [ ] Solve 2 questions for Binary Indexed Tree
-- [ ] Revise yesterday's binary search questions + attempt 4 more questions
-	- [x] [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) 🟠
-	- [ ] [Split Message Based on Limit](https://leetcode.com/problems/split-message-based-on-limit/)
-	- [ ] [Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/)
-	- [ ] [Minimum Number of Operations to Make Array Continuous](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/)
+5 Feb 2024, Mon
+- [ ] [Split Message Based on Limit](https://leetcode.com/problems/split-message-based-on-limit/)
+- [ ] [Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/)
+- [ ] [Minimum Number of Operations to Make Array Continuous](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/)
+- [ ] [House Robber](https://leetcode.com/problems/house-robber/)
+- [ ] [Count the Number of Houses at a Certain Distance II](https://leetcode.com/problems/count-the-number-of-houses-at-a-certain-distance-ii/)
 - [ ] Solidify DP concepts (obliterate 16 different DP questions)
       7 hard, 9 medium, 1 easy
 	- [ ] If there's time, watch the MIT video on [Dynamic Programming](https://www.youtube.com/watch?v=krZI60lKPek&t=7s)
@@ -46,7 +34,22 @@ Legend
 	- [ ] [Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii)
 	- [ ] [Strange Printer](https://leetcode.com/problems/strange-printer)
 	- [ ] [Kth Ancestor of a Tree Node](https://leetcode.com/problems/kth-ancestor-of-a-tree-node)
-	- [ ]
+
+2 Feb 2024, Fri
+- [x] [Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid) #binary-search #queue 🟠
+- [x] [Count the Number of Houses at a Certain Distance I](https://leetcode.com/problems/count-the-number-of-houses-at-a-certain-distance-i/) 🟠
+- [x] [Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) 🦠
+- [x] [Clone Graph](https://leetcode.com/problems/clone-graph/) 🦠
+
+31 Jan 2024, Wed + 1 Feb 2024, Thu
+- [ ] Learn about [[Segment Tree]] and [[Binary Indexed Tree]]
+	- [x] Finish reading this [hackerearth article on a segtree](https://www.hackerearth.com/practice/notes/segment-tree-and-lazy-propagation/)
+	- [x] Solve 2 questions for Segment Tree
+		- [x] [Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/)
+		- [x] [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)
+	- [ ] Solve 2 questions for Binary Indexed Tree
+- [ ] Revise yesterday's binary search questions + attempt 4 more questions
+	- [x] [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) 🟠
 - [ ] Go back to the binary search questions, starting with Find Minimum in Rotated Sorted Array - check out the editorial discussion on the different ways to solve it (some comments in the discussion mention that the editorial's solution isn't the most straightforward)
 - [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
