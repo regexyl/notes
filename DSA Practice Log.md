@@ -9,8 +9,8 @@ Legend
 🏃‍♀️ Not fast enough
 
 5 Feb 2024, Mon
-- [ ] [Split Message Based on Limit](https://leetcode.com/problems/split-message-based-on-limit/)
-- [ ] [Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/)
+- [x] [Split Message Based on Limit](https://leetcode.com/problems/split-message-based-on-limit/) 🔴
+- [x] [Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/) 🟠
 - [ ] [Minimum Number of Operations to Make Array Continuous](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/)
 - [ ] [House Robber](https://leetcode.com/problems/house-robber/)
 - [ ] [Count the Number of Houses at a Certain Distance II](https://leetcode.com/problems/count-the-number-of-houses-at-a-certain-distance-ii/)
