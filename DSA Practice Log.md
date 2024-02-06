@@ -8,6 +8,9 @@ Legend
 ⏳ Not the best time complexity
 🏃‍♀️ Not fast enough
 
+6 Feb 2024, Tues
+- [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams/) 🟠
+
 5 Feb 2024, Mon
 - [x] [Split Message Based on Limit](https://leetcode.com/problems/split-message-based-on-limit/) 🔴
 - [x] [Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/) 🟠
