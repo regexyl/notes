@@ -49,18 +49,6 @@
                 }
               },
               {
-                "id": "3c5aabe12e8c3605",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "De Morgan's Law.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
                 "id": "2fb96a5fd0acb616",
                 "type": "leaf",
                 "state": {
@@ -97,7 +85,7 @@
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 2
           },
           {
             "id": "57fd6e3f6b5fa69b",
@@ -289,7 +277,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "De Morgan's Law.md",
+                "file": "DSA Practice Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -306,7 +294,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "De Morgan's Law.md",
+                "file": "DSA Practice Log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -329,7 +317,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "De Morgan's Law.md"
+                "file": "DSA Practice Log.md"
               }
             }
           }
@@ -345,7 +333,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "De Morgan's Law.md",
+                "file": "DSA Practice Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -362,7 +350,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "De Morgan's Law.md",
+                "file": "DSA Practice Log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -385,7 +373,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "De Morgan's Law.md"
+                "file": "DSA Practice Log.md"
               }
             }
           }
@@ -409,10 +397,10 @@
       "templates:Insert template": false
     }
   },
-  "active": "3c5aabe12e8c3605",
+  "active": "570a209e6ea3a69c",
   "lastOpenFiles": [
+    "De Morgan's Laws.md",
     "DSA Practice Log.md",
-    "De Morgan's Law.md",
     "Math for Machine Learning.md",
     "Python Cheatsheet.md",
     "Untitled.md",

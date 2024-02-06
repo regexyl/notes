@@ -12,6 +12,8 @@ Legend
 - [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams/) 🟠
 - [ ] [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) #intervals 🟠
 - [x] [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) #dfs #backtracking 🟢⚾️
+- [x] [Find the Derangement of An Array](https://leetcode.com/problems/find-the-derangement-of-an-array/) #dp #math 🔴
+	- [ ] Study the mathematical proof again ([[De Morgan's Laws]])
 
 5 Feb 2024, Mon
 - [x] [Split Message Based on Limit](https://leetcode.com/problems/split-message-based-on-limit/) 🔴
