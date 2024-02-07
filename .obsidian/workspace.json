@@ -122,7 +122,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Python Cheatsheet.md",
+                    "file": "DSA Practice Log.md",
                     "mode": "source",
                     "source": false
                   }
@@ -277,7 +277,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python Cheatsheet.md",
+                "file": "DSA Practice Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -294,7 +294,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python Cheatsheet.md",
+                "file": "DSA Practice Log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -317,7 +317,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python Cheatsheet.md"
+                "file": "DSA Practice Log.md"
               }
             }
           }
@@ -333,7 +333,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python Cheatsheet.md",
+                "file": "DSA Practice Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -350,7 +350,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python Cheatsheet.md",
+                "file": "DSA Practice Log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -373,7 +373,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python Cheatsheet.md"
+                "file": "DSA Practice Log.md"
               }
             }
           }
@@ -399,11 +399,11 @@
   },
   "active": "b214176fd576abec",
   "lastOpenFiles": [
+    "Python Cheatsheet.md",
     "Heap Time Complexity.md",
     "DSA Practice Log.md",
     "De Morgan's Laws.md",
     "Math for Machine Learning.md",
-    "Python Cheatsheet.md",
     "Untitled.md",
     "Quickselect.md",
     "Quicksort.md",
