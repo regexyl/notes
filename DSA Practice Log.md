@@ -8,6 +8,9 @@ Legend
 ⏳ Not the best time complexity
 🏃‍♀️ Not fast enough
 
+7 Feb 2024, Wed
+- [x] [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) 🟠
+
 6 Feb 2024, Tues
 - [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams/) 🟠
 - [ ] [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) #intervals 🟠
