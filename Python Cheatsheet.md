@@ -1,6 +1,13 @@
-Math Operations
+## Math Operations
 - `divmod()`: Takes two numbers -  `numerator, denominator` - as arguments and returns their quotient and remainder in a tuple.
 	- E.g. `divmod(8, 3) =  (2, 2)`
+
+## Custom comparator between classes
+
+See [Merge K Sorted List solution](https://leetcode.com/problems/merge-k-sorted-lists/submissions/561547013/) on a default comparison between ListNodes:
+```python
+ListNode.__lt__ = lambda self, y: self.val <= y.val
+```
 
 # External Libraries
 
