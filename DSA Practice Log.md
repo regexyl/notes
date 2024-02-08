@@ -8,23 +8,8 @@ Legend
 ⏳ Not the best time complexity
 🏃‍♀️ Not fast enough
 
-7 Feb 2024, Wed
-- [x] [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) 🟠
-
-6 Feb 2024, Tues
-- [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams/) 🟠
-- [ ] [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) #intervals 🟠
-- [x] [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) #dfs #backtracking 🟢⚾️
-- [x] [Find the Derangement of An Array](https://leetcode.com/problems/find-the-derangement-of-an-array/) #dp #math 🔴
-	- [ ] Study the mathematical proof again ([[De Morgan's Laws]])
-
-5 Feb 2024, Mon
-- [x] [Split Message Based on Limit](https://leetcode.com/problems/split-message-based-on-limit/) 🔴
-- [x] [Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/) 🟠
-- [ ] [Minimum Number of Operations to Make Array Continuous](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/)
-- [ ] [House Robber](https://leetcode.com/problems/house-robber/)
-- [ ] [Count the Number of Houses at a Certain Distance II](https://leetcode.com/problems/count-the-number-of-houses-at-a-certain-distance-ii/)
-- [ ] Solidify DP concepts (obliterate 16 different DP questions)
+8 Feb 2024, Thurs
+- [ ] - [ ] Solidify DP concepts (obliterate 16 different DP questions)
       7 hard, 9 medium, 1 easy
 	- [ ] If there's time, watch the MIT video on [Dynamic Programming](https://www.youtube.com/watch?v=krZI60lKPek&t=7s)
 	- [ ] [Perfect Squares](https://leetcode.com/problems/perfect-squares)
@@ -44,6 +29,23 @@ Legend
 	- [ ] [Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii)
 	- [ ] [Strange Printer](https://leetcode.com/problems/strange-printer)
 	- [ ] [Kth Ancestor of a Tree Node](https://leetcode.com/problems/kth-ancestor-of-a-tree-node)
+
+7 Feb 2024, Wed
+- [x] [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) 🟠
+
+6 Feb 2024, Tues
+- [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams/) 🟠
+- [ ] [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) #intervals 🟠
+- [x] [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) #dfs #backtracking 🟢⚾️
+- [x] [Find the Derangement of An Array](https://leetcode.com/problems/find-the-derangement-of-an-array/) #dp #math 🔴
+	- [ ] Study the mathematical proof again ([[De Morgan's Laws]])
+
+5 Feb 2024, Mon
+- [x] [Split Message Based on Limit](https://leetcode.com/problems/split-message-based-on-limit/) 🔴
+- [x] [Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/) 🟠
+- [ ] [Minimum Number of Operations to Make Array Continuous](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/)
+- [ ] [House Robber](https://leetcode.com/problems/house-robber/)
+- [ ] [Count the Number of Houses at a Certain Distance II](https://leetcode.com/problems/count-the-number-of-houses-at-a-certain-distance-ii/)
 
 2 Feb 2024, Fri
 - [x] [Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid) #binary-search #queue 🟠
