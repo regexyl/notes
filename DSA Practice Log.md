@@ -12,7 +12,7 @@ Legend
 - [ ] - [ ] Solidify DP concepts (obliterate 16 different DP questions)
       7 hard, 9 medium, 1 easy
 	- [ ] If there's time, watch the MIT video on [Dynamic Programming](https://www.youtube.com/watch?v=krZI60lKPek&t=7s)
-	- [ ] [Perfect Squares](https://leetcode.com/problems/perfect-squares)
+	- [ ] [Perfect Squares](https://leetcode.com/problems/perfect-squares) #dp 🟠
 	- [ ] [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv)
 	- [ ] [Shopping Offers](https://leetcode.com/problems/shopping-offers)
 	- [ ] [Super Ugly Number](https://leetcode.com/problems/super-ugly-number)
