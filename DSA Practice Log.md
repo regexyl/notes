@@ -12,10 +12,11 @@ Legend
 - [ ] - [ ] Solidify DP concepts (obliterate 16 different DP questions)
       7 hard, 9 medium, 1 easy
 	- [ ] If there's time, watch the MIT video on [Dynamic Programming](https://www.youtube.com/watch?v=krZI60lKPek&t=7s)
-	- [ ] [Perfect Squares](https://leetcode.com/problems/perfect-squares) #dp #math 🟠
+	- [x] [Perfect Squares](https://leetcode.com/problems/perfect-squares) #dp #math 🟠
 		- [x] Learned about [[Lagrange's four-square theorem]] and [[Legendre's three-square theorem]] for a mathematical solution.
 	- [ ] [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv)
-	- [ ] [Shopping Offers](https://leetcode.com/problems/shopping-offers)
+	- [x] [Shopping Offers](https://leetcode.com/problems/shopping-offers) 🟠
+		- [ ] Should know better - I think I could implement this
 	- [ ] [Super Ugly Number](https://leetcode.com/problems/super-ugly-number)
 	- [ ] [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii)
 	- [ ] [Paint Fence](https://leetcode.com/problems/paint-fence)
