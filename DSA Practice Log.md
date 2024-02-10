@@ -8,6 +8,9 @@ Legend
 ⏳ Not the best time complexity
 🏃‍♀️ Not fast enough
 
+10 Feb 2024, Sat
+- [ ] [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) 🟠🔁
+
 8 Feb 2024, Thurs
 - [ ] - [ ] Solidify DP concepts (obliterate 16 different DP questions)
       7 hard, 9 medium, 1 easy
