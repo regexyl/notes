@@ -129,6 +129,42 @@
                 }
               },
               {
+                "id": "60b6547dcc60d9c2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Legendre's three-square theorem.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "e85321978f9ffcef",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Lagrange's four-square theorem.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "8ba1ce06f7fd45d6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Boyer-Moore Voting Algorithm.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
                 "id": "757f04060e06ed6c",
                 "type": "leaf",
                 "state": {
@@ -165,7 +201,7 @@
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 4
           }
         ],
         "direction": "vertical"
@@ -277,7 +313,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA Practice Log.md",
+                "file": "Lagrange's four-square theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -294,7 +330,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA Practice Log.md",
+                "file": "Lagrange's four-square theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -317,7 +353,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA Practice Log.md"
+                "file": "Lagrange's four-square theorem.md"
               }
             }
           }
@@ -333,7 +369,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA Practice Log.md",
+                "file": "Lagrange's four-square theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -350,7 +386,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA Practice Log.md",
+                "file": "Lagrange's four-square theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -373,7 +409,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA Practice Log.md"
+                "file": "Lagrange's four-square theorem.md"
               }
             }
           }
@@ -397,11 +433,12 @@
       "templates:Insert template": false
     }
   },
-  "active": "b214176fd576abec",
+  "active": "e85321978f9ffcef",
   "lastOpenFiles": [
-    "Lagrange's four-square theorem.md",
     "Legendre's three-square theorem.md",
     "DSA Practice Log.md",
+    "Boyer-Moore Voting Algorithm.md",
+    "Lagrange's four-square theorem.md",
     "Quicksort.md",
     "Python Cheatsheet.md",
     "Heap Time Complexity.md",
@@ -426,7 +463,6 @@
     "Data Structures and Algorithms.canvas",
     "Prefix Sum.md",
     "(dsa) Median of Two Sorted Arrays.md",
-    "2024 Goals.md",
     "Pasted image 20240128134045.png",
     "Pasted image 20240128134022.png",
     "Untitled 1.canvas",

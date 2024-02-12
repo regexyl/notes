@@ -8,6 +8,9 @@ Legend
 ⏳ Not the best time complexity
 🏃‍♀️ Not fast enough
 
+12 Feb 2024, Mon
+- [ ] Learned the [[Boyer-Moore Voting Algorithm]]
+
 10 Feb 2024, Sat
 - [ ] [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) 🟠🔁
 
