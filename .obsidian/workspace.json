@@ -10,44 +10,8 @@
           {
             "id": "7d516ca871999759",
             "type": "tabs",
-            "dimension": 51.889534883720934,
+            "dimension": 42.23790322580645,
             "children": [
-              {
-                "id": "6bfcaa51b11d725d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Some undersold tools for learning OSS.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "0e82114dfbfae17e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Binary Search Templates.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "570a209e6ea3a69c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Heap Time Complexity.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
               {
                 "id": "2fb96a5fd0acb616",
                 "type": "leaf",
@@ -84,13 +48,12 @@
                   }
                 }
               }
-            ],
-            "currentTab": 2
+            ]
           },
           {
             "id": "57fd6e3f6b5fa69b",
             "type": "tabs",
-            "dimension": 48.11046511627907,
+            "dimension": 57.76209677419355,
             "children": [
               {
                 "id": "e8d0f43effbcbe7b",
@@ -111,42 +74,6 @@
                   "type": "markdown",
                   "state": {
                     "file": "Quickselect.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "b214176fd576abec",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "DSA Practice Log.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "60b6547dcc60d9c2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Legendre's three-square theorem.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "e85321978f9ffcef",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Lagrange's four-square theorem.md",
                     "mode": "source",
                     "source": false
                   }
@@ -201,7 +128,7 @@
                 }
               }
             ],
-            "currentTab": 4
+            "currentTab": 1
           }
         ],
         "direction": "vertical"
@@ -313,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lagrange's four-square theorem.md",
+                "file": "Math for Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -330,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lagrange's four-square theorem.md",
+                "file": "Math for Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -353,7 +280,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lagrange's four-square theorem.md"
+                "file": "Math for Machine Learning.md"
               }
             }
           }
@@ -369,7 +296,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lagrange's four-square theorem.md",
+                "file": "Math for Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -386,7 +313,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lagrange's four-square theorem.md",
+                "file": "Math for Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -409,7 +336,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lagrange's four-square theorem.md"
+                "file": "Math for Machine Learning.md"
               }
             }
           }
@@ -433,19 +360,21 @@
       "templates:Insert template": false
     }
   },
-  "active": "e85321978f9ffcef",
+  "active": "2fb96a5fd0acb616",
   "lastOpenFiles": [
-    "Legendre's three-square theorem.md",
+    "Some undersold tools for learning OSS.md",
+    "Binary Search Templates.md",
+    "Heap Time Complexity.md",
+    "Quickselect.md",
     "DSA Practice Log.md",
-    "Boyer-Moore Voting Algorithm.md",
+    "Legendre's three-square theorem.md",
     "Lagrange's four-square theorem.md",
+    "Boyer-Moore Voting Algorithm.md",
     "Quicksort.md",
     "Python Cheatsheet.md",
-    "Heap Time Complexity.md",
     "De Morgan's Laws.md",
     "Math for Machine Learning.md",
     "Untitled.md",
-    "Quickselect.md",
     "Bit Manipulation.md",
     "A Lightweight Instrument-Agnostic Model for Polyphonic Note Transcription and Multipitch Estimation.md",
     "YC Startups.md",
@@ -453,9 +382,7 @@
     "Untitled 2.canvas",
     "Segment Tree.md",
     "Binary Indexed Tree.md",
-    "Binary Search Templates.md",
     "Time Complexity.md",
-    "Some undersold tools for learning OSS.md",
     "Things to Learn.md",
     "Loss of Generality.md",
     "(dsa) Rotate Array.md",
