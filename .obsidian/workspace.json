@@ -10,7 +10,7 @@
           {
             "id": "7d516ca871999759",
             "type": "tabs",
-            "dimension": 42.23790322580645,
+            "dimension": 50.872093023255815,
             "children": [
               {
                 "id": "2fb96a5fd0acb616",
@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Math for Machine Learning.md",
+                    "file": "DSA Practice Log.md",
                     "mode": "source",
                     "source": false
                   }
@@ -53,7 +53,7 @@
           {
             "id": "57fd6e3f6b5fa69b",
             "type": "tabs",
-            "dimension": 57.76209677419355,
+            "dimension": 49.127906976744185,
             "children": [
               {
                 "id": "e8d0f43effbcbe7b",
@@ -240,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math for Machine Learning.md",
+                "file": "DSA Practice Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math for Machine Learning.md",
+                "file": "DSA Practice Log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -280,7 +280,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math for Machine Learning.md"
+                "file": "DSA Practice Log.md"
               }
             }
           }
@@ -296,7 +296,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math for Machine Learning.md",
+                "file": "DSA Practice Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -313,7 +313,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math for Machine Learning.md",
+                "file": "DSA Practice Log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -336,7 +336,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math for Machine Learning.md"
+                "file": "DSA Practice Log.md"
               }
             }
           }
@@ -362,6 +362,7 @@
   },
   "active": "2fb96a5fd0acb616",
   "lastOpenFiles": [
+    "Math for Machine Learning.md",
     "Google Chrome Shortcuts 2.md",
     "Some undersold tools for learning OSS.md",
     "Binary Search Templates.md",
@@ -374,7 +375,6 @@
     "Quicksort.md",
     "Python Cheatsheet.md",
     "De Morgan's Laws.md",
-    "Math for Machine Learning.md",
     "Untitled.md",
     "Bit Manipulation.md",
     "A Lightweight Instrument-Agnostic Model for Polyphonic Note Transcription and Multipitch Estimation.md",
